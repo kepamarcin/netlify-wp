@@ -1,12 +1,11 @@
 ---
 ID: 44
-post_title: Statut
+title: Statut
 author: mkepa
 post_excerpt: ""
 layout: page
 permalink: http://www.psar.test/statut/
-published: true
-post_date: 2016-08-04 10:04:01
+draft: false
 ---
 <p style="text-align: justify;"><strong>STATUT PODKARPACKIEGO STOWARZYSZENIA DLA AKTYWNYCH RODZIN</strong></p>
 <p style="text-align: justify;">ROZDZIAŁ 1

@@ -1,13 +1,12 @@
 ---
 ID: 1204
-post_title: Place Zabaw Kinderplaneta, Rzeszów
+title: Place Zabaw Kinderplaneta, Rzeszów
 author: mkepa
 post_excerpt: ""
 layout: post
 permalink: >
   http://www.psar.test/place-zabaw-kinderplaneta-rzeszow/
-published: true
-post_date: 2017-03-14 15:46:28
+draft: false
 ---
 Kinderplaneta to sieć placów zabaw, które odwiedzić można w kilkunastu miastach Polski. Jeden z nich znajdziemy<strong> w Rzeszowie w galerii „Nowy Świat"</strong> przy ul. Krakowskiej.
 

@@ -1,13 +1,12 @@
 ---
 ID: 1146
-post_title: Rzeszowski Klub Rodzinny
+title: Rzeszowski Klub Rodzinny
 author: mkepa
 post_excerpt: ""
 layout: post
 permalink: >
   http://www.psar.test/rzeszowski-klub-rodzinny/
-published: true
-post_date: 2017-02-08 18:51:49
+draft: false
 ---
 <strong>Stowarzyszenie PSAR jest twórcą klubu dla rodzin z dziećmi. Członkiem Rzeszowskiego Klubu Rodzinnego (RKR) może zostać każda rodzina zamieszkała w Rzeszowie lub w niedalekiej okolicy. </strong>
 

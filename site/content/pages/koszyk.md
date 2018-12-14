@@ -1,11 +1,10 @@
 ---
 ID: 1578
-post_title: Koszyk
+title: Koszyk
 author: mkepa
 post_excerpt: ""
 layout: page
 permalink: http://www.psar.test/koszyk/
-published: true
-post_date: 2017-09-21 11:27:00
+draft: false
 ---
 [woocommerce_cart]

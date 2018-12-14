@@ -1,6 +1,6 @@
 ---
 ID: 1085
-post_title: >
+title: >
   PKO BP sponsorem rzeszowskiej gry
   pamięciowej
 author: mkepa
@@ -8,8 +8,7 @@ post_excerpt: ""
 layout: post
 permalink: >
   http://www.psar.test/bank-pko-bp-sponsorem-rzeszowskie-spacery-gra-pamieciowa/
-published: true
-post_date: 2016-12-12 19:12:12
+draft: false
 ---
 Wydanie <a href="http://dev-psar.pantheonsite.io/rzeszowskie-spacery-gra-pamieciowa/">„Rzeszowskich spacerów - gry pamięciowej" </a>nie byłoby możliwe bez wsparcia sponsorów, którzy dostrzegli sens i duży potencjał tego projektu, i zdecydowali się pomóc nam w jego realizacji. Jednym z tych sponsorów jest <a href="https://www.facebook.com/PKOBankPolski/">bank PKO BP</a>.
 

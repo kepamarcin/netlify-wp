@@ -1,13 +1,12 @@
 ---
 ID: 1105
-post_title: 'Fibrain &#8211; firma odpowiedzialna społecznie'
+title: 'Fibrain &#8211; firma odpowiedzialna społecznie'
 author: mkepa
 post_excerpt: ""
 layout: post
 permalink: >
   http://www.psar.test/fibrain-firma-odpowiedzialna-spolecznie/
-published: true
-post_date: 2016-12-13 11:47:42
+draft: false
 ---
 Na etapie planowania projektu "Rzeszowskie spacery - gra i przegląd artystyczny" stowarzyszenie PSAR zwróciło się do rzeszowskich firm z prośbą o wsparcie finansowe, umożliwiające realizację tej inicjatywy.
 

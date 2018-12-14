@@ -1,6 +1,6 @@
 ---
 ID: 1372
-post_title: >
+title: >
   Podkarpackie wędrówki dla
   przedszkolaków
 author: mkepa
@@ -8,8 +8,7 @@ post_excerpt: ""
 layout: page
 permalink: >
   http://www.psar.test/podkarpackie-wedrowki-dla-przedszkolakow/
-published: true
-post_date: 2017-08-25 10:50:51
+draft: false
 ---
 <strong>Stowarzyszenie PSAR wydało kolejny przewodnik dla przedszkolaków. Tym razem wyszliśmy poza bramy miasta Rzeszowa na teren całego Podkarpacia, gdzie znaleźliśmy wiele ciekawych miejsc, wartych zwiedzenia podczas wycieczek z dziećmi.
 </strong>

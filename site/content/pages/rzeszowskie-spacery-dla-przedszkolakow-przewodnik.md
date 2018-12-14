@@ -1,6 +1,6 @@
 ---
 ID: 1746
-post_title: >
+title: >
   Rzeszowskie spacery dla przedszkolaków
   – przewodnik
 author: mkepa
@@ -8,8 +8,7 @@ post_excerpt: ""
 layout: page
 permalink: >
   http://www.psar.test/rzeszowskie-spacery-dla-przedszkolakow-przewodnik/
-published: true
-post_date: 2016-09-09 13:05:06
+draft: false
 ---
 <p style="text-align: justify;"><strong>Pierwszy projekt Stowarzyszenia PSAR „Rzeszowskie spacery dla przedszkolaków – przewodnik”</strong>, został zrealizowany w okresie od kwietnia do lipca, dzięki finansowemu wsparciu Gminy Miasto Rzeszów.</p>
 <p style="text-align: justify;">Celem było napisanie mądrych, rzetelnych, zwięzłych, zrozumiałych i wartościowych promocyjnie, krótkich tekstów. Wymagało to od autorów sprawdzania źródeł, umiejętności pisarskich oraz znajomości psychologii dziecka i wiedzy o tym, jakie informacje może przyswajać na określonym etapie rozwoju.</p>

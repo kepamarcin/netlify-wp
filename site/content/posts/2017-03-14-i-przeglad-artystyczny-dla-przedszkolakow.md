@@ -1,6 +1,6 @@
 ---
 ID: 1193
-post_title: >
+title: >
   I Przegląd Artystyczny dla
   przedszkolaków
 author: mkepa
@@ -8,8 +8,7 @@ post_excerpt: ""
 layout: post
 permalink: >
   http://www.psar.test/i-przeglad-artystyczny-dla-przedszkolakow/
-published: true
-post_date: 2017-03-14 13:14:47
+draft: false
 ---
 Więcej zdjęć <span style="text-decoration: underline;"><a href="http://gdziecko.pl/i-przeglad-artystyczny-rzeszowskie-spacery-fotorelacja/">znajdziesz TU [kliknij]</a></span>
 

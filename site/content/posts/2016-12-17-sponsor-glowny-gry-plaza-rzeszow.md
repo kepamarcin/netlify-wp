@@ -1,13 +1,12 @@
 ---
 ID: 1113
-post_title: 'Sponsor Główny gry &#8211; PLAZA Rzeszów'
+title: 'Sponsor Główny gry &#8211; PLAZA Rzeszów'
 author: mkepa
 post_excerpt: ""
 layout: post
 permalink: >
   http://www.psar.test/sponsor-glowny-gry-plaza-rzeszow/
-published: true
-post_date: 2016-12-17 21:49:56
+draft: false
 ---
 „Rzeszowskie spacery – gry pamięciowa" ma swoją oficjalną premierę w dniach 16-18.12.2016 r. w centrum handlowym Rzeszów Plaza.
 

@@ -1,13 +1,12 @@
 ---
 ID: 1732
-post_title: 'U nas można latać &#8211; podkład muzyczny + tekst'
+title: 'U nas można latać &#8211; podkład muzyczny + tekst'
 author: mkepa
 post_excerpt: ""
 layout: post
 permalink: >
   http://www.psar.test/u-nas-mozna-latac-podklad-muzyczny-tekst/
-published: true
-post_date: 2018-07-03 13:49:27
+draft: false
 ---
 [audio mp3="http://www.psar.test/wp-content/uploads/2018/07/U-nas-można-latac-podkład-roboczy.mp3"][/audio]
 
