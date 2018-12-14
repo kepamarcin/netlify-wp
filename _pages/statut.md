@@ -1,488 +1,222 @@
 ---
-ID: 328
+ID: 44
 post_title: Statut
 author: mkepa
 post_excerpt: ""
 layout: page
-permalink: >
-  https://mkepa.thisistap.com/o-nas/statut/
+permalink: http://www.psar.test/statut/
 published: true
-post_date: 2017-10-22 13:54:40
+post_date: 2016-08-04 10:04:01
 ---
-<p style="text-align: center;"><strong>STATUT</strong></p>
-<p style="text-align: center;"><strong>POLSKIEJ IZBY BRANŻY POGRZEBOWEJ</strong></p>
-<p style="text-align: center;"></p>
-<p style="text-align: center;"></p>
-<p style="text-align: center;"></p>
-<p style="text-align: center;"><strong>Dział I</strong></p>
-<p style="text-align: center;"><strong>Postanowienia ogólne</strong></p>
-<p style="text-align: center;"></p>
-<p style="text-align: center;"><strong>§ 1</strong></p>
-1. Polska Izba Branży Pogrzebowej, zwana dalej Izbą, jest organizacją samorządu gospodarczego, reprezentującą interesy gospodarcze zrzeszonych w niej przedsiębiorców,
-(w szczególności wobec organów władzy publicznej), która przyjmuje na swoich członków przedsiębiorców i osoby prawne, prowadzące działalność w zakresie usług pogrzebowych, cmentarnych, prosektoryjnych, kremacyjnych, kamieniarskich, produkcji trumien, akcesoriów oraz wszelkich wyrobów i usług związanych z branżą pogrzebową oraz przedsiębiorców i osoby prawne, mogących świadczyć bądź świadczących usługi na rzecz branży pogrzebowej.
-
-2. Izba zrzesza swoich członków na zasadzie dobrowolności, partnerstwa i wzajemnego poszanowania interesów.
-
-3. Członkowie Izby są reprezentowani w pracach Izby przez swoich przedstawicieli
-w szczególności przez organy powołane do reprezentacji.
-<p style="text-align: center;"><strong>§ 2</strong></p>
-1. Izba działa na podstawie ustawy z dnia 30 maja 1989 roku o izbach gospodarczych
-(t.j. Dz. U. z 2017 r., poz. 1218) oraz postanowień niniejszego Statutu.
-
-2. Izba posiada osobowość prawną zgodnie z powszechnie obowiązującymi przepisami.
-<p style="text-align: center;"><strong>§ 3</strong></p>
-1. Obszarem działania Izby jest terytorium Rzeczypospolitej Polskiej.
-
-2. Siedzibą Izby jest miasto stołeczne Warszawa.
-
-3. Izba używa pieczęci z napisem Polska Izba Branży Pogrzebowej.
-<p style="text-align: center;"><strong>§ 4</strong></p>
-1. Izba realizuje swoje cele na obszarze kraju i poza jego granicami.
-
-2. W celu realizacji swoich celów statutowych Izba może być członkiem krajowych i zagranicznych organizacji i stowarzyszeń.
-
-&nbsp;
-<p style="text-align: center;"><strong>Dział II</strong></p>
-<p style="text-align: center;"><strong>Cele i formy działania Izby</strong></p>
-<p style="text-align: center;"><strong>§ 5</strong></p>
-1. Celem Izby jest w szczególności:
-
-1) reprezentowanie i ochrona interesów gospodarczych zrzeszonych w niej podmiotów w zakresie ich działalności produkcyjnej, handlowej, usługowej, w szczególności wobec organów administracji rządowej  i organów jednostek samorządu terytorialnego,
-
-2) inicjowanie powstania bądź zmiany aktów prawnych, dotyczących szeroko rozumianej branży pogrzebowej,
-
-3) kształtowanie i upowszechnianie zasad etyki w działalności gospodarczej branży pogrzebowej, w szczególności opracowanie  i doskonalenie norm rzetelnego postępowania  w obrocie gospodarczym,
-
-4) promocja wszelkich przedsięwzięć w zakresie ekologii i ochrony środowiska, związanych z działalności gospodarczą członków Izby,
-
-5) wyrażanie opinii o projektach rozwiązań odnoszących się do funkcjonowania gospodarki, uczestniczenie w przygotowaniu projektów aktów prawnych w tym zakresie oraz dokonywanie ocen wdrażania  i funkcjonowania przepisów prawnych dotyczących prowadzenia działalności gospodarczej,
-
-6) organizowanie pomocy członkom Izby w rozwiązywaniu ich problemów ekonomicznych, organizacyjnych i prawnych związanych z podejmowaniem i prowadzeniem przez nich działalności gospodarczej,
-
-7) prowadzenie działalności promocyjnej na rzecz członków oraz pomoc w nawiązywaniu kontaktów z partnerami w kraju i za granicą,
-
-8) kształtowanie i upowszechnianie zasad etyki zawodowej w działalności gospodarczej oraz zasad uczciwej konkurencji i ochrony praw konsumentów,
-
-9) rekomendowanie swoich przedstawicieli do parlamentu i organów samorządowych,
-
-9) organizacja targów i wystaw branży pogrzebowej oraz wydawanie publikacji i periodyków związanych z branżą pogrzebową,
-
-10) podtrzymywanie tradycji narodowej, działalność w zakresie nauki, edukacji, oświaty, ochrony dóbr kultury i sztuki cmentarnej.
-
-2. Formy realizacji celów Izby określone są w § 6 Statutu.
-<p style="text-align: center;"><strong>§ 6</strong></p>
-1. Izba realizuje swoje cele w szczególności poprzez:
-
-1) współpracę z organami władzy państwowej, organami samorządu terytorialnego oraz organami samorządu gospodarczego w Polsce i innych krajach,
-
-2) uczestniczenie w projektach, programach, przedsięwzięciach gospodarczych i innowacyjnych finansowanych ze środków budżetu państwa lub środków Unii Europejskiej,
-
-3) udział w tworzeniu warunków rozwoju życia gospodarczego oraz wspieranie inicjatyw gospodarczych członków,
-
-4) popieranie, we współpracy z właściwymi organami oświatowymi, kształcenia zawodowego, wspieranie nauki zawodu oraz doskonalenia zawodowego pracowników,
-
-5) delegowanie swoich przedstawicieli, na zaproszenie organów państwowych i samorządu terytorialnego, do uczestniczenia w pracach instytucji doradczo – opiniodawczych w sprawach działalności gospodarczej członków Izby,
-
-6) organizowanie i stwarzanie warunków do rozstrzygania sporów – w drodze postępowania polubownego i pojednawczego oraz uczestniczenie, na odrębnie określonych zasadach, w postępowaniach sądowych w związku z działalnością gospodarczą jej członków,
-
-7) wydawanie opinii o istniejących zwyczajach, dotyczących działalności gospodarczej przedsiębiorstw branży pogrzebowej,
-
-8) wydawanie opinii o funkcjonowaniu podmiotów gospodarczych, stanowiących podstawę uzyskania przez te podmioty zezwoleń na wykonywanie działalności w zakresie usług pogrzebowych,
-
-9) informowanie o funkcjonowaniu przedsiębiorców branży pogrzebowej i wyrażanie opinii o stanie rozwoju gospodarczego na obszarze działania Izby,
-
-10) wykonywanie zadań powierzonych Izbie ustawą o izbach gospodarczych oraz odrębnymi przepisami,
-
-11) tworzenie fundacji i stypendiów dla popierania inicjatyw gospodarczych członków Izby,
-
-12) prowadzenie działalności gospodarczej, wydawniczej i reklamowej; szkoleniowej, eksperckiej i konsultacyjnej,
-
-13) doradztwo organizacyjne, techniczne i ekonomiczne; wykonywanie ekspertyz i badań marketingowych,
-
-14) współpracę i wymianę doświadczeń z krajowymi i zagranicznymi organizacjami, zrzeszającymi podmioty prowadzące pokrewną działalność gospodarczą,
-
-15) podejmowanie i prowadzenie działalności gospodarczej, opisanej w § 6 ust. 2 Statutu
-
-16) tworzenie zespołów eksperckich oraz komisji i zespołów problemowych.
-
-2. Działalność gospodarcza Izby może być  prowadzona na zasadach określonych w odrębnych przepisach w rozmiarze służącym realizacji celów statutowych, a jej zakres polega głównie na wydawaniu książek i periodyków oraz pozostałej działalności wydawniczej; działalności portali internetowych;  wdrażaniu wyników badań naukowych i prac rozwojowych w dziedzinach związanych z branżą pogrzebową, działalności związanej z organizacją targów i wystaw branży pogrzebowej,  doradztwie dla przedsiębiorców branży pogrzebowej w zakresie prowadzenia działalności gospodarczej i zarządzania przedsiębiorstwem,  organizacji i prowadzeniu kursów, szkoleń i innych pozaszkolnych form kształcenia dla potrzeb przedsiębiorstw branży pogrzebowej, pozostałej sprzedaży detalicznej prowadzonej w niewyspecjalizowanych sklepach.
-
-&nbsp;
-<p style="text-align: center;"><strong>Dział III</strong></p>
-<p style="text-align: center;"><strong>Członkowie oraz ich prawa i obowiązki</strong></p>
-<p style="text-align: center;"><strong>§ 7</strong></p>
-Członkiem Izby może być każdy przedsiębiorca i osoba prawna, prowadząca działalność gospodarczą określoną w § 1 ust. 1 Statutu na obszarze działania Izby.
-<p style="text-align: center;"><strong>§ 8</strong></p>
-1. Decyzję w sprawach przyznania członkostwa podejmuje Zarząd po rozpatrzeniu deklaracji zainteresowanego podmiotu.
-
-2. Zainteresowany podmiot, ubiegający się o przyjęcie w poczet członków Izby powinien złożyć deklarację w formie określonej uchwałą Zarządu, dokument stwierdzający status prawny podmiotu i informację o danych osoby bądź osób, będących jej przedstawicielami oraz zobowiązać się do płacenia składek członkowskich i przestrzegania Statutu Polskiej Izby Branży Pogrzebowej.
-<p style="text-align: center;"><strong>§ 9</strong></p>
-Członkowie Izby wykonują swoje prawa i obowiązki osobiście bądź przez swoich przedstawicieli.
-<p style="text-align: center;"><strong>§ 10</strong></p>
-Członkom Izby przysługuje prawo:
-
-1) czynnego i biernego prawa wyborczego do organów Izby,
-
-2) uczestniczenia w różnych formach działalności i pracach Izby,
-
-3) zgłaszać wnioski dotyczące działalności Izby,
-
-4) korzystania z wszelkich form pomocy i dostępnych dla członków świadczeń Izby,
-
-5) uczestniczyć w Walnych Zgromadzeniach Członków oraz w posiedzeniach innych organów Izby, na których rozpatrywane są sprawy bezpośrednio ich dotyczące,
-<p style="text-align: center;"><strong>§ 11</strong></p>
-1. Członek Izby ma obowiązek:
-
-1) przestrzegania postanowień Statutu oraz właściwych uchwał organów Izby,
-
-2) uczestnictwa w realizacji statutowych celów i zadań Izby, a swoim działaniem i postawą dbać o dobre imię Izby,
-
-3) regularnie opłacać składki członkowskie,
-
-4) stawać w wyznaczonym miejscu i terminie na wezwanie organów Izby oraz składać stosowne wyjaśnienia w formie, terminie i miejscu wskazanym przez organ wzywający z zastrzeżeniem § 11 ust. 2 Statutu.
-
-2. O ewentualnej niemożności stawiennictwa lub złożenia wyjaśnień na wezwanie organów Izby, członek Izby jest zobowiązany powiadomić pisemnie właściwy organ Izby, uzasadniając niemożność stawiennictwa lub złożenia wyjaśnień.
-<p style="text-align: center;"><strong>§ 12</strong></p>
-Członkostwo w Izbie ustaje w razie:
-
-1) wystąpienia z Izby – zgłoszonego na piśmie Zarządowi,
-
-2) skreślenia z listy członków Izby – na podstawie uchwały Zarządu Izby, z powodu zaprzestania działalności,  nie płacenia składek członkowskich przez okres co najmniej 6 miesięcy lub na wniosek Sądu Koleżeńskiego,
-
-3) wykluczenia z Izby – na mocy uchwały Walnego Zgromadzenia, bądź na wniosek Sądu Koleżeńskiego na podstawie  uchwały Walnego Zgromadzenia,
-
-5) prawomocnego ukarania za przestępstwo popełnione umyślnie w związku z prowadzeniem działalności określonej w § 1 ust. 1 Statutu.
-<p style="text-align: center;"><strong>§ 13</strong></p>
-1. Członkom Izby przysługuje prawo odwołania się od uchwały Zarządu o skreśleniu z listy członków Izby w terminie 30 dni od daty jej otrzymania.
-
-2. Odwołanie określone w § 13 ust. 1 Statutu rozpatruje najbliższe Walne Zgromadzenie.
-
-&nbsp;
-<p style="text-align: center;"><strong>Dział IV</strong></p>
-<p style="text-align: center;"><strong>Organy Izby</strong></p>
-<p style="text-align: center;"></p>
-<p style="text-align: center;"><strong>Rozdział I</strong></p>
-<p style="text-align: center;"><strong>Postanowienia ogólne</strong></p>
-<p style="text-align: center;"></p>
-<p style="text-align: center;"><strong>§ 14</strong></p>
-1. Organami Izby są:
-
-1) Walne Zgromadzenie,
-
-2) Zarząd,
-
-3) Komisja Rewizyjna,
-
-4) Sąd Koleżeński.
-
-2. Członkowie Zarządu, Komisji Rewizyjnej oraz Sądu Koleżeńskiego działają społecznie i nieodpłatnie.
-
-3. Z wyłączeniem Walnego Zgromadzenia, członkowie nie mogą łączyć funkcji w dwóch lub więcej organach Izby z zastrzeżeniem, że członkowie Komisji Rewizyjnej mogą być ewentualnie członkami Sądu Koleżeńskiego, podczas gdy Prezes Izby oraz pozostali członkowie Zarządu nie mogą równocześnie mogą być członkami Sądu Koleżeńskiego.
-<p style="text-align: center;"><strong>§ 15</strong></p>
-W skład organów Izby mogą wchodzić wyłącznie osoby fizyczne – członkowie Izby, bądź też osoby fizyczne, reprezentujące członków Izby będących osobami prawnymi.
-<p style="text-align: center;"><strong>§ 16</strong></p>
-1. Kadencja Zarządu, Komisji Rewizyjnej i Sądu Koleżeńskiego trwa 4 lata.
-
-2. Rozwiązanie lub skrócenie kadencji Zarządu powoduje automatyczne rozwiązanie lub skrócenie kadencji Komisji Rewizyjnej oraz Sądu Koleżeńskiego z dniem najbliższych wyborów do Zarządu.
-
-3. Wybory do organów Izby odbywają się w głosowaniu tajnym bez względu od każdorazowej uchwały Walnego Zgromadzenia. W tym samym trybie następuje również odwołanie członków organów.
-
-4. Mandat członka Zarządu, Komisji Rewizyjnej lub Sądu Koleżeńskiego wygasa na skutek:
-
-1) rezygnacji złożonej Zarządowi,
-
-2) śmierci osoby pełniącej funkcję,
-
-3) odwołania lub wykluczenia z członkostwa w organach Izby przez Walne Zgromadzenie,
-
-4) ustania członkostwa w Izbie,
-
-5) prawomocnego skazania za przestępstwo popełnione umyślnie, w związku z prowadzoną działalnością gospodarczą,
-
-6) zawieszenia w prawach członka Izby.
-
-5. Nie można być członkiem Zarządu, Komisji Rewizyjnej i Sądu Koleżeńskiego więcej niż dwie kadencje z rzędu.
-
-6. W przypadku, gdy przed końcem kadencji nie można doprowadzić do wyboru części lub całości nowego składu organów Izby,  kadencja odpowiednio części lub całości urzędującego   składu organów Izby zostaje przedłużona  o kolejne 2 lata.
-
-7. W uzasadnionych przypadkach, w szczególności ze względów organizacyjnych, uchwały organów Izby mogą być podejmowane za pomocą środków bezpośredniego porozumiewania się na odległość, bądź w trybie indywidualnego zbierania głosów.
-<p style="text-align: center;"><strong>§ 17</strong></p>
-Członkowie Zarządu, Komisji Rewizyjnej i Sądu Koleżeńskiego mają obowiązek:
-
-1) wypełniać powierzone im obowiązki z najwyższą starannością i zaangażowaniem,
-
-2) kierować się w pełnieniu powierzonej funkcji dobrem Izby, wolą członków - wyborców oraz dobrem środowiska zawodowego,
-
-3) traktować wszystkich członków Izby na równych prawach,
-
-4) w granicach swych zadań, stosowanie do wiedzy i doświadczenia służyć radą, informacją i pomocą wszystkim członkom Izby.
-<p style="text-align: center;"><strong>§ 18</strong></p>
-Członkowie Zarządu, Komisji Rewizyjnej i Sądu Koleżeńskiego nie mogą wykorzystywać powierzonych im funkcji we własnych sprawach, dla własnej korzyści lub korzyści osób im bliskich. Powyższego zakazu nie stosuje się w przypadku zbieżności interesu, osoby pełniącej funkcję z interesem Izby lub środowiska zawodowego.
-<p style="text-align: center;"><strong>§ 19</strong></p>
-Zespoły ekspertów, komisje i zespoły problemowe określone w § 6 ust. 1 pkt 16 Statutu nie są organami Izby - działają społecznie i nieodpłatnie.
-
-&nbsp;
-<p style="text-align: center;"><strong>Rozdział II</strong></p>
-<p style="text-align: center;"><strong>Walne Zgromadzenie</strong></p>
-<p style="text-align: center;"></p>
-<p style="text-align: center;"><strong>§ 20</strong></p>
-1. Walne Zgromadzenie jest najwyższą władzą Izby.
-
-2. Walne Zgromadzenie zwoływane jest przez Zarząd i odbywa się raz do roku, najpóźniej do dnia 30 czerwca roku kalendarzowego.
-
-3. W przypadku, gdy w skład Zarządu wchodzi mniej niż 3 osoby Walne Zgromadzenie zwołuje Dyrektor Izby.
-
-4. W przypadku rezygnacji Prezesa oraz obu Wiceprezesów lub rozwiązania Zarządu, Walne Zgromadzenie zwołuje Przewodniczący Komisji Rewizyjnej lub zwoływane jest na podstawie uchwały Komisji Rewizyjnej.
-
-5. O miejscu, terminie i porządku obrad zawiadamia się wszystkich członków Izby listem poleconym, co najmniej 14 dni przed terminem odbycia obrad Walnego Zgromadzenia.
-
-6. Wnioski członków w przedmiocie zmian lub uzupełnienia porządku obrad winny być składane  najpóźniej na 7 dni przed terminem odbycia Walnego Zgromadzenia.
-
-7. Jeżeli następuje uzupełnienie porządku obrad, to co najmniej na 3 dni przed terminem odbycia Walnego Zgromadzenia podaje się uzupełniony porządek obrad do wiadomości wszystkich członków Izby na stronie internetowej Izby lub w inny przyjęty zwyczajem sposób.
-<p style="text-align: center;"><strong>§ 21</strong></p>
-1. Nadzwyczajne Walne Zgromadzenie zwołuje Zarząd :
-
-1) z własnej inicjatywy,
-
-2) na żądanie Komisji Rewizyjnej,
-
-3) na pisemny wniosek co najmniej 1/3 członków Izby.
-
-2. Komisja Rewizyjna zwołuje zwyczajne Walne Zgromadzenie, jeżeli nie zostanie ono zwołane przez Zarządu w czasie określonym w statucie oraz Nadzwyczajne Walne Zgromadzenie, jeżeli uzna to we wniosku za wskazane, a  Zarząd nie zwoła Walnego Zgromadzenia w ciągu dwóch tygodni od zgłoszenia tego wniosku.
-
-3. Przedmiotem uchwał Walnego Zgromadzenia oraz Nadzwyczajnego Walnego Zgromadzenia mogą być jedynie sprawy objęte porządkiem obrad, ustalonym i podanym do wiadomości w trybie określonym w § 20 ust. 2, 3, i 4 Statutu.
-
-4. Przepisy Statutu dotyczące Walnego Zgromadzenia stosuje się odpowiednio do Nadzwyczajnego Walnego Zgromadzenia.
-<p style="text-align: center;"><strong>§ 22</strong></p>
-1. W Walnym Zgromadzeniu członkowie Izby uczestniczą osobiście.
-
-2. W Walnym Zgromadzeniu uczestniczy Dyrektor Izby.
-
-3. Każdy członek Izby dysponuje na Walnym Zgromadzeniu jednym głosem.
-<p style="text-align: center;"><strong>§ 23</strong></p>
-Uchwały Walnego Zgromadzenia zapadają zwykłą większością głosów, przy obecności 50% członków w pierwszym terminie i zwykłą większością bez względu na liczbę obecnych członków w drugim terminie.
-<p style="text-align: center;"><strong>§ 24</strong></p>
-Do kompetencji Walnego Zgromadzenia należy:
-
-1) uchwalenie statutu Izby i zmian w statucie,
-
-2) uchwalenie regulaminu wyboru władz Izby oraz regulaminu obrad Walnego Zgromadzenia,
-
-3) wybór i odwołanie Prezesa Izby,
-
-4) wybór i odwołanie członków Zarządu, Komisji Rewizyjnej i Sądu Koleżeńskiego,
-
-5) wybór i odwołanie Dyrektora Izby,
-
-6) zatwierdzenie regulaminu Zarządu, Komisji Rewizyjnej i Sądu Koleżeńskiego,
-
-7) zatwierdzanie regulaminu działania Biura Izby,
-
-8) wytyczanie kierunków oraz uchwalenie programów działania Izby,
-
-9) zatwierdzanie budżetów Izby poddanych pod jego głosowanie,
-
-10) zatwierdzanie sprawozdań z działalności, Zarządu Komisji Rewizyjnej oraz Sądu Koleżeńskiego,
-
-11) udzielenie absolutorium członkom Zarządu,
-
-12) ustalanie wysokości składek członkowskich i sposobu ich wpłaty,
-
-13) wyrażanie zgody na powierzanie Izbie wykonywania niektórych zadań, zastrzeżonych w przepisach prawa dla administracji państwowej,
-
-14) nadawanie w drodze uchwały godności Honorowego Prezesa lub Członka Izby,
-
-15) podejmowanie uchwał w innych sprawach wynikających ze Statutu.
-
-&nbsp;
-<p style="text-align: center;"><strong>Rozdział III</strong></p>
-<p style="text-align: center;"><strong>Zarząd</strong></p>
-<p style="text-align: center;"></p>
-<p style="text-align: center;"><strong>§ 25</strong></p>
-1. Zarząd kieruje działalnością Izby oraz reprezentuje ją na zewnątrz.
-
-2. Do Zarządu należy podejmowanie wszelkich decyzji nie zastrzeżonych Statutem dla innych organów.
-
-3. Zarząd za zgodą Walnego Zgromadzenia może występować z wnioskiem do Rady Ministrów o powierzanie Izbie wykonywania niektórych zadań, zastrzeżonych w przepisach prawa dla administracji państwowej.
-
-4. Zarząd ma obowiązek składania sprawozdań ze swojej działalności na Walnym Zgromadzeniu Członków Izby.
-<p style="text-align: center;"><strong>§ 26</strong></p>
-1. Walne Zgromadzenie wybiera Prezesa Izby.
-
-2. Walne Zgromadzenie wybiera od 2 do 4 członków Zarządu.
-
-3. W przypadku ustania członkostwa członka Zarządu nie ma obowiązku przeprowadzania wyborów uzupełniających, jeżeli w jej składzie pozostaje co najmniej 3 członków.
-
-4. Na czele Zarządu stoi Prezes Izby.
-
-5. Zarząd wybiera spośród swojego grona, tj. z członków Zarządu, dwóch
-Wiceprezesów.
-<p style="text-align: center;"><strong>§ 27</strong></p>
-1. Oświadczenia woli w zakresie praw i obowiązków Izby, składają jednoosobowo Prezes Izby lub Wiceprezes.
-
-2. Organem wykonawczym  Zarządu jest Biuro Izby, którym kieruje Dyrektor Izby.
-
-3. Zarząd może udzielić Dyrektorowi Izby pełnomocnictwa ogólnego, związanego z kierowaniem bieżącą działalnością Izby, a także pełnomocnictwa do dokonywania czynności określonego rodzaju lub czynności szczególnych.
-
-4. Pracownicy Biura Izby w sprawach szczególnych mogą być upoważniani do określonych czynności przez Dyrektora Izby.
-<p style="text-align: center;"><strong>§ 28</strong></p>
-W zależności od potrzeb Zarządu może powoływać doraźnie lub na stałe komisje problemowe, będące organem pomocniczym Zarządu przy opracowywaniu i realizacji określonych zadań.
-<p style="text-align: center;"><strong>§ 29</strong></p>
-1. Uchwały Zarządu zapadają zwykłą większością głosów.
-
-2. Głosowanie na posiedzeniach  Zarządu jest jawne, jeżeli żaden z jej członków nie zażąda utajnienia głosowania. W takim przypadku o sposobie głosowania decyduje Zarządu zwykłą większością głosów.
-
-3. W przypadku równowagi głosów decyduje głos Prezesa Izby.
-
-4. Zarząd podejmuje uchwały w składzie nie mniejszym niż 2 członków Zarządu.
-<p style="text-align: center;"></p>
-<p style="text-align: center;"><strong>Rozdział IV</strong></p>
-<p style="text-align: center;"><strong>Komisja Rewizyjna</strong></p>
-<p style="text-align: center;"></p>
-<p style="text-align: center;"><strong>§ 30</strong></p>
-1. Komisja Rewizyjna jest organem kontrolującym całokształt działalności Izby, za wyjątkiem Walnego Zgromadzenia i orzeczeń Sadu Koleżeńskiego.
-
-2. Walne Zgromadzenie wybiera od 3 do 5 członków Komisji Rewizyjnej.
-
-3. W przypadku ustania członkostwa w Komisji Rewizyjnej nie ma obowiązku przeprowadzania wyborów uzupełniających, jeżeli w jej składzie pozostaje co najmniej 3 członków.
-
-4. Komisja Rewizyjna wybiera ze swego składu Przewodniczącego i Wiceprzewodniczącego.
-
-&nbsp;
-<p style="text-align: center;"><strong>§ 31</strong></p>
-Do Komisji Rewizyjnej należy:
-
-1) przeprowadzenie bieżących i rocznych kontroli gospodarki finansowej Izby,
-
-2) przedstawienie Walnemu Zgromadzeniu wniosków i spostrzeżeń dotyczących bieżącej działalności Izby,
-
-3) składanie Walnemu Zgromadzeniu sprawozdań z kontroli działalności Izby wraz z wnioskami,
-
-4) przedkładanie Walnemu Zgromadzeniu wniosków o udzielenie absolutorium Zarządowi,
-
-5) wydawanie zaleceń Zarządowi w przypadku stwierdzenia nieprawidłowości,
-
-6) przedkładanie Walnemu Zgromadzeniu wniosku o pozbawienie członkostwa w Zarządzie, Komisji Rewizyjnej lub Sądzie Koleżeńskim.
-<p style="text-align: center;"><strong>§ 32</strong></p>
-1. Komisja Rewizyjna podejmuje czynności w składzie co najmniej 2 członków, w tym Przewodniczącego lub Wiceprzewodniczącego.
-
-2. Komisja Rewizyjna działa w oparciu o regulamin, zatwierdzony przez Walne Zgromadzenie.
-<p style="text-align: center;"><strong>§ 33</strong></p>
-1. Uchwały Komisji Rewizyjnej zapadają zwykłą większością głosów.
-
-2. Głosowanie na posiedzeniach  jest jawne, jeżeli żaden z jej członków nie zażąda utajnienia głosowania. W takim przypadku o sposobie głosowania decyduje Komisja Rewizyjna zwykłą większością głosów.
-
-&nbsp;
-<p style="text-align: center;"><strong>Rozdział V</strong></p>
-<p style="text-align: center;"><strong>Sąd Koleżeński</strong></p>
-<p style="text-align: center;"></p>
-<p style="text-align: center;"><strong>§ 34</strong></p>
-1. Walne Zgromadzenie wybiera od 3 do 5 członków Sądu Koleżeńskiego
-
-2. W przypadku ustania członkostwa w Sądzie Koleżeńskim nie ma obowiązku przeprowadzania wyborów uzupełniających, jeżeli w jej składzie pozostaje co najmniej 3  członków.
-
-3. Członkowie Sądu Koleżeńskiego wybierają ze swojego grona Przewodniczącego i Wiceprzewodniczącego.
-
-&nbsp;
-<p style="text-align: center;"><strong>§ 35</strong></p>
-Do kompetencji Sądu Koleżeńskiego należy:
-
-1) rozpatrywanie i rozstrzyganie spraw związanych z naruszeniem przez członków postanowień statutu i uchwał organów Izby, zasad współżycia społecznego, dobrych obyczajów kupieckich lub w wyniku działań członka na szkodę Izby,
-
-2) rozpatrywanie sporów pomiędzy członkami Izby.
-<p style="text-align: center;"><strong>§ 36</strong></p>
-Wniosek przeciwko członkowi Izby może wnieść inny członek Izby, a także osoba lub instytucja nie będąca członkiem Izby.
-<p style="text-align: center;"><strong>§ 37</strong></p>
-Członkowie Sądu Koleżeńskiego wykonują swoje prawa i obowiązki osobiście.
-<p style="text-align: center;"><strong>§ 38</strong></p>
-1. Sąd Koleżeński orzeka w składzie nie mniejszym niż 3 członków.
-
-2. Sąd Koleżeński rozpatruje sprawy na wniosek Zarządu, Komisji Rewizyjnej, członków Izby, a także osób lub instytucji nie będących członkami Izby nie później niż w ciągu 30 dni od daty otrzymania wniosku.
-<p style="text-align: center;"><strong>§ 39</strong></p>
-1. Sąd Koleżeński może wymierzyć następujące kary:
-
-1) upomnienia,
-
-2) nagany,
-
-3) zawieszenie w prawach członka Izby,
-
-2. Sąd Koleżeński może podjąć postanowienie o skierowaniu do Walnego Zgromadzenia wniosku o wykluczenie z członkostwa w Izbie. Powyższy wniosek rozpatruje najbliższe Walne Zgromadzenie.
-<p style="text-align: center;"><strong>§ 40</strong></p>
-Sąd Koleżeński składa sprawozdanie ze swojej działalności na Walnym Zgromadzeniu.
-<p style="text-align: center;"><strong>§ 41</strong></p>
-1. Wyroki i uchwały Sądu Koleżeńskiego zapadają zwykłą większością głosów.
-
-2. Głosowanie na posiedzeniach  jest jawne, jeżeli żaden z jej członków nie zażąda utajnienia głosowania. W takim przypadku o sposobie głosowania decyduje Sąd Koleżeński zwykłą większością głosów.
-
-&nbsp;
-<p style="text-align: center;"><strong>Dział V</strong></p>
-<p style="text-align: center;"><strong>Gospodarka finansowa i majątek Izby</strong></p>
-<p style="text-align: center;"><strong>§ 42</strong></p>
-1. Szczegółowe zasady gospodarki finansowej Izby ustala Zarząd.
-
-2. Na majątek Izby składają się ruchomości, nieruchomości, środki pieniężne oraz wszelkie prawa majątkowe.
-<p style="text-align: center;"><strong>§ 43</strong></p>
-Majątek Izby powstaje m.in. z następujących składników :
-
-1) składek członkowskich,
-
-2) dotacji, darowizn, spadków i zapisów,
-
-3) wpływów z prowadzonej działalności gospodarczej Izby,
-
-4) wpływów z działalności statutowej,
-
-5) dochodów z majątku Izby.
-<p style="text-align: center;"><strong>§ 44</strong></p>
-1. Każdy Członek Izby płaci wpisowe i składkę członkowską w wysokości uchwalonej przez Walne Zgromadzenie.
-
-2. Wpisowe należy wpłacać w terminie 14 dni od dnia przyjęcia w poczet członków Izby.
-
-3. Składki członkowskie należy wpłacać miesięcznie z góry do 10 dnia każdego miesiąca na konto Izby lub do kasy Izby.
-
-4. Zarząd z ważnych przyczyn ma prawo umorzenia płatności składki członkowskiej.
-<p style="text-align: center;"></p>
-<p style="text-align: center;"><strong>Dział VI</strong></p>
-<p style="text-align: center;"><strong>Przepisy przejściowe i końcowe</strong></p>
-<p style="text-align: center;"></p>
-<p style="text-align: center;"><strong>Rozdział 1</strong></p>
-<p style="text-align: center;"><strong>Walne Zgromadzenie Założycielskie</strong></p>
-<p style="text-align: center;"></p>
-<p style="text-align: center;"><strong>§ 45</strong></p>
-1. W przypadku Walnego Zgromadzenia Założycielskiego stosuje się odpowiednio przepisy Statutu, dotyczące Walnego Zgromadzenia z wyłączeniem w szczególności postanowień mówiących o formie, terminie, organach uprawnionych do zwołania.
-
-2. W Walnym Zgromadzeniu Założycielskim podmioty określone w § 1 ust. 1 Statutu działają osobiście przez swoich przedstawicieli lub pełnomocników.
-
-3. Podmioty określone w § 1 ust. 1 Statutu, będące założycielami Polskiej Izby Branży Pogrzebowej, nabywają członkostwo w Izbie. Postanowienia § 8 ust. 2 Statutu stosuje się odpowiednio.
-<p style="text-align: center;"><strong>§ 46</strong></p>
-1. Walne Zgromadzenie Założycielskie wybiera spośród swojego grona Prezesa Izby
-oraz 3 członków Komisji Rewizyjnej.
-
-2. Prezes Izby wybrany podczas Walnego Zgromadzenia Założycielskiego reprezentuje Izbę
-na zewnątrz w tym wobec organów administracji rządowej, jednostek samorządu terytorialnego, oraz składa jednoosobowo oświadczenia woli w zakresie praw i obowiązków Izby.
-
-3. Do pierwszej, kadencji organów Izby wybranych w Walnym Zgromadzeniu Założycielskim, która trwa do 30 czerwca 2018 r., nie ma zastosowania § 16 ust. 5 Statutu, tj. zasada dwukadencyjności z rzędu.
-<p style="text-align: center;"><strong>Rozdział 2</strong></p>
-<p style="text-align: center;"><strong>Zmiana Statutu i rozwiązanie Izby</strong></p>
-<p style="text-align: center;"></p>
-<p style="text-align: center;"><strong>§ 47</strong></p>
-1. Uchwałę w sprawie zmiany statutu lub likwidacji Izby podejmuje Walne Zgromadzenie większością 2/3 głosów przy obecności co najmniej połowy uprawnionych do głosowania w pierwszym terminie i większością 2/3 głosów – bez względu na liczbę obecnych w drugim terminie.
-
-2. W przypadku podjęcia uchwały o likwidacji Izby, Walne Zgromadzenie w tej samej uchwale powołuje likwidatora, który przeprowadza likwidację zgodnie z obowiązującymi powszechnie przepisami i postanowieniami Statutu, dotyczącymi przeznaczenia majątku Izby oraz określa cel społeczny, o którym mowa w § 47 ust. 3 pkt 2) Statutu.
-
-3. Określa się następujące zasady przeznaczenia majątku Izby w razie jej likwidacji:
-
-1) majątek Izby w pierwszej kolejności przeznacza się na zaspokojenie długów oraz na koszty likwidacji Izby,
-
-2) pozostałą część majątku Izby przeznacza się na cele społeczne określone w uchwale Walnego Zgromadzenia o likwidacji Izby,
-
-3) majątek Izby nie może być przeznaczony do podziału pomiędzy członków Izby.
-
-4. Likwidator niezwłocznie po wyznaczeniu zgłasza do właściwego rejestru wniosek o wpisanie otwarcia likwidacji Izby, przystępuje do sporządzenia bilansu na dzień otwarcia likwidacji oraz listy zobowiązań Izby, a także sporządza plan finansowy likwidacji i plan zaspokojenia zobowiązań.
-
-5. Po zakończeniu likwidacji sporządza się bilans na dzień zakończenia likwidacji. Likwidator zatwierdza bilans na dzień zakończenia likwidacji, zgłasza wniosek o wykreśleniu Izby z rejestru oraz przekazuje księgi i dokumenty zlikwidowanej Izby na przechowanie.
-
-&nbsp;
-
-&nbsp;
+<p style="text-align: justify;"><strong>STATUT PODKARPACKIEGO STOWARZYSZENIA DLA AKTYWNYCH RODZIN</strong></p>
+<p style="text-align: justify;">ROZDZIAŁ 1
+POSTANOWIENIA OGÓLNE
+§1
+1. Podkarpackie Stowarzyszenie dla Aktywnych Rodzin, zwane dalej Stowarzyszeniem, działa na podstawie Ustawy z dnia 7 kwietnia 1989 roku Prawo o stowarzyszeniach (Dz.U. z 1989r. Nr 20, poz.104 z późn. zmianami), a także niniejszego Statutu.
+2. Stowarzyszenie zyskuje osobowość prawną z chwilą wpisu do Krajowego Rejestru Sądowego.
+3. Nazwa stowarzyszenia jest prawnie zastrzeżona.
+4. Stowarzyszenie może używać odznak i pieczęci zgodnie z obowiązującymi przepisami.
+§2
+1. Siedzibą Stowarzyszenia jest miasto Rzeszów.
+§3
+1. Terenem działania Stowarzyszenia jest obszar Rzeczypospolitej Polskiej.
+2. Dla właściwego realizowania swoich celów Stowarzyszenie może prowadzić działalność również poza granicami kraju z poszanowaniem tamtejszego prawa.
+§4
+1. Stowarzyszenie może być członkiem krajowych i międzynarodowych organizacji o takim samym lub podobnym profilu działania.
+§5
+1. Stowarzyszenie opiera swoją działalność na pracy społecznej członków. Do prowadzenia swych spraw może zatrudniać pracowników oraz korzystać z pracy wolontariuszy.
+§6
+1. Stowarzyszenie jest organizacją neutralną politycznie i wyznaniowo.
+§7
+1. Stowarzyszenie zostaje powołane na czas nieokreślony.</p>
+<p style="text-align: justify;">ROZDZIAŁ 2
+CELE I SPOSOBY DZIAŁANIA</p>
+<p style="text-align: justify;">§8
+1. Celem Stowarzyszenia jest propagowanie aktywnego i zdrowego trybu życia wśród dzieci i ich opiekunów (rodziców, dziadków, nauczycieli itp.), a zarazem promowanie kulturalnych, oświatowych, sportowych i przyrodniczych atrakcji województwa podkarpackiego wśród jego mieszkańców, a także mieszkańców innych regionów Polski oraz zagranicy.</p>
+<p style="text-align: justify;">§9
+Stowarzyszenie realizuje swoje cele poprzez:
+1. Zachęcanie do aktywnego trybu życia dzieci i ich opiekunów. Przez „aktywne” rozumie się wychodzenie z domu i korzystanie z kulturalnych, oświatowych, sportowych i przyrodniczych atrakcji dostępnych poza nim,
+2. Propagowanie zdrowego i pro-ekologicznego trybu życia w grupie docelowej,
+3. Upowszechnianie wiedzy o różnorodnych, prorozwojowych, bezpiecznych i aktywnych sposobach wspólnego spędzania czasu poza domem,
+4. Wyszukiwaniu na Podkarpacia miejsc i wydarzeń atrakcyjnych dla dzieci i ich opiekunów i informowanie o nich grupy docelowej,
+5. Organizowanie spotkań i wydarzeń kulturalnych, edukacyjnych, sportowych i/lub rozrywkowych służących realizacji celów statutowych,
+6. Organizowanie warsztatów i szkoleń służących realizacji celów statutowych,
+7. Integrowanie rodzin z dziećmi wokół idei i sposobów wspólnego, aktywnego spędzania czasu,
+8. Propagowanie efektywnych i przyjaznych dla dzieci metod wychowawczych,
+9. Propagowanie postaw pro-obywatelskich, szczególnie wśród rodzin z dziećmi,
+10. Propagowanie wiedzy i postaw określonych celami statutowymi w Internecie,
+11. Działalność informacyjno-promocyjną
+12. Przygotowywanie i rozpowszechnianie treści informacyjno-promocyjnych w językach obcych,
+13. Współpracę z instytucjami, firmami i jednostkami samorządu terytorialnego na terenie województwa podkarpackiego w zakresie realizacji celów statutowych,
+14. Współpracę z instytucjami z innych województw oraz z zagranicy o podobnych lub takich samych celach i zakresie działalności,
+§10
+1. Stowarzyszenie może prowadzić działalność gospodarczą w rozmiarach służących realizacji celów statutowych na zasadach, określonych w odrębnych przepisach.
+§11
+1. Dochód z działalności gospodarczej Stowarzyszenia służy wyłącznie realizacji celów statutowych oraz zadań należących do sfery zadań publicznych, o których mowa w art. 4 ustawy z dnia 24.04.2003 r. o działalności pożytku publicznego i o wolontariacie (Dz.U. Nr 96 poz.873) i nie może być przeznaczony do podziału między jego członków.</p>
+<p style="text-align: justify;">ROZDZIAŁ 3
+CZŁONKOWIE, ICH PRAWA I OBOWIĄZKI
+§12
+1. Członkowie Stowarzyszenia dzielą się na członków zwyczajnych i członków honorowych.
+§13
+1. Członkiem zwyczajnym może być osoba fizyczna posiadająca pełną zdolność do czynności prawnych, będąca obywatelem polskim lub cudzoziemcem.
+2. Członkowie-założyciele Stowarzyszenia stają się członkami zwyczajnymi po zarejestrowaniu Stowarzyszenia.
+3. Zgłoszenie nowego członka do Stowarzyszenia musi zawierać rekomendację dwu członków zwyczajnych. Przyjęcia dokonuje Zarząd uchwałą podjętą w ciągu jednego miesiąca od daty złożenia deklaracji członkostwa. W razie odmowy przyjęcia w poczet członków, zainteresowany ma prawo w terminie jednego miesiąca od daty jej doręczenia złożyć na ręce Zarządu odwołanie do Walnego Zebrania. Walne Zebranie rozpatruje odwołanie na najbliższym posiedzeniu. Stanowisko Walnego Zebrania jest ostateczne.
+4. Członek zwyczajny ma prawo:
+a. wybierać i być wybieranym do władz Stowarzyszenia,
+b. uczestniczyć z głosem stanowiącym w Walnym Zebraniu,
+c. zgłaszać wnioski i postulaty dotyczące działalności Stowarzyszenia,
+d. korzystać z pomocy i zaplecza Stowarzyszenia w podejmowanych działaniach zgodnych z jego celami statutowymi,
+e. brać udział w pracach, zebraniach i innych przedsięwzięciach Stowarzyszenia z prawem głosu.
+5. Członek zwyczajny obowiązany jest do:
+a. przestrzegania statutu, regulaminów i uchwał władz Stowarzyszenia,
+b. regularnego opłacania składek na rzecz Stowarzyszenia,
+c. czynnego uczestniczenia w realizacji celów statutowych Stowarzyszenia,
+d. dbania o mienie i dobre imię Stowarzyszenia.
+§14
+1. Członkiem honorowym Stowarzyszenia może zostać osoba fizyczna szczególnie zasłużona dla realizacji celów statutowych Stowarzyszenia.
+2. Godność członka honorowego nadaje Walne Zebranie na wniosek Zarządu Stowarzyszenia lub co najmniej ½ członków zwyczajnych Stowarzyszenia
+3. Członek honorowy nie posiada biernego oraz czynnego prawa wyborczego, może jednak brać udział głosem doradczym w statutowych władzach Stowarzyszenia, poza tym posiada takie prawa jak członek zwyczajny.
+4. Członek honorowy zwolniony jest z obowiązku opłacania składek członkowskich.
+§15
+1. Członkostwo w Stowarzyszeniu ustaje na skutek:
+a. dobrowolnej rezygnacji z przynależności do Stowarzyszenia, zgłoszonej na piśmie Zarządowi, po uprzednim uregulowaniu wszelkich zobowiązań odnośnie Stowarzyszenia,
+b. śmierci członka,
+c. uchwały Zarządu z powodu nie płacenia składek członkowskich lub nieusprawiedliwionej nieobecności na Walnym Zebraniu przez okres 2 lat,
+d. wykluczenia uchwałą Zarządu z powodu nieprzestrzegania postanowień statutu, regulaminów i uchwał władz Stowarzyszenia oraz działania na szkodę Stowarzyszenia.
+2. Osoba wykluczona lub skreślona ma prawo wniesienia odwołania do Walnego Zebrania w terminie 14 dni od daty doręczenia uchwały na piśmie. Zebranie rozpatruje odwołanie w czasie najbliższych obrad. Decyzja Walnego Zebrania jest ostateczna.</p>
+<p style="text-align: justify;">ROZDZIAŁ 4
+WŁADZE STOWARZYSZENIA
+§16
+1. Władzami Stowarzyszenia są:
+a. Walne Zebranie członków Stowarzyszenia, zwane dalej „Walnym Zebraniem”,
+b. Zarząd Stowarzyszenia, zwany dalej „Zarządem”,
+c. Komisja Rewizyjna.
+§17
+1. Walne Zebranie Członków jest najwyższą władzą Stowarzyszenia.
+2. Walne Zebranie Członków może być:
+a. zwyczajne
+b. nadzwyczajne
+3. Zwyczajne Walne Zebranie zwołuje Zarząd raz w roku jako sprawozdawcze i co cztery lata jako sprawozdawczo-wyborcze, zawiadamiając członków pisemnie o jego terminie, miejscu i proponowanym porządku obrad co najmniej na 14 dni przed terminem Walnego Zebrania.
+4. Zwyczajne Walne Zebranie Członków powinno się odbyć nie później niż w terminie czterech miesięcy od zakończenia okresu sprawozdawczego.
+a. Okresem sprawozdawczym jest rok kalendarzowy.
+5. Walne Zebranie Członków obraduje wg uchwalonego przez siebie regulaminu obrad.
+6. Nadzwyczajne Walne Zebranie zwołuje Zarząd:
+a. Z własnej inicjatywy,
+b. Na żądanie Komisji Rewizyjnej
+c. Na pisemny wniosek co najmniej 1/3 ogólnej liczby członków zwyczajnych Stowarzyszenia.
+7. Nadzwyczajne Walne Zebranie powinno być zwoływane w terminie miesiąca od daty zgłoszenia wniosku lub żądania i obradować nad sprawami, dla których zostało zwołane.
+8. Uchwały Walnego Zebrania zapadają zwykłą większością głosów, w głosowaniu jawnym, w obecności ponad połowy ogólnej liczby członków zwyczajnych Stowarzyszenia (z zastrzeżeniem § 19.3 oraz z wyjątkiem spraw określonych w § 35.1 i 2.
+9. Walnym Zebraniem kieruje Przewodniczący Walnego Zebrania, którym może być Prezes Zarządu lub jeden z wiceprezesów Zarządu.
+10. W przypadku równego rozłożenia głosów w trakcie głosowania, decyduje głos przewodniczącego Walnego Zebrania.
+11. Do kompetencji Walnego Zebrania w szczególności należy:
+a. ustalanie głównych kierunków działania i rozwoju Stowarzyszenia,
+b. uchwalenie statutu i jego zmian,
+c. zatwierdzanie regulaminów Zarządu i Komisji Rewizyjnej,
+d. wybór i odwoływanie Prezesa Zarządu, Zarządu i Komisji Rewizyjnej,
+e. udzielanie absolutorium Zarządowi na wniosek Komisji Rewizyjnej,
+f. rozpatrywanie sprawozdań z działalności Zarządu i Komisji Rewizyjnej,
+g. ustalanie wysokości składek członkowskich oraz wszystkich innych świadczeń na rzecz Stowarzyszenia,
+h. podejmowanie uchwały o rozwiązaniu Stowarzyszenia i przeznaczeniu jego majątku,
+i. rozpatrywanie odwołań od uchwał Zarządu,
+j. nadawanie tytułu członka honorowego Stowarzyszenia,
+k. rozpatrywanie i zatwierdzanie sprawozdań władz Stowarzyszenia,
+l. rozpatrywanie wniosków i postulatów zgłoszonych przez członków lub Zarząd Stowarzyszenia.
+§18
+1. Zarząd składa się z 3 do 5 osób, w tym Prezesa, Wiceprezesa, Sekretarza i Skarbnika.
+2. Istnieje możliwość łączenia funkcji Wiceprezesa z funkcją Sekretarza albo Skarbnika
+3. Kadencja Zarządu trwa 4 lata.
+§19
+1. Wybory pierwszego składu Zarządu odbywają się w głosowaniu jawnym.
+2. Dalsze wybory do władz Stowarzyszenia odbywają się w głosowaniu tajnym w obecności ponad połowy ogólnej liczby członków, z zastrzeżeniem pkt. 3.
+3. W przypadku braku kworum Zarząd zwołuje Walne Zebranie w drugim terminie, nie później niż 30 minut po terminie pierwszym. W takim wypadku uchwały zapadają zwykłą większością głosów, bez względu na liczbę obecnych członków.
+4. Zasada opisana w pkt. 3 odnosi się do wszelkich uchwał Walnego Zebrania, za wyjątkiem uchwał, o których mowa w §35 p. 1 i 2.
+§20
+1. W przypadku zmniejszenia się liczby pochodzących z wyboru członków władz w trakcie trwania kadencji, władzom tym przysługuje prawo kooptacji spośród członków Stowarzyszenia, pod warunkiem, że liczba dokooptowanych członków władz nie przekroczy 1/3 liczby członków pochodzących z wyboru. W przeciwnym razie, Zarząd zwołuje Walne Zebranie w celu odbycia wyborów uzupełniających.
+2. Członkowie władz Stowarzyszenia pełnią swoje funkcje społecznie i nie pobierają za nie wynagrodzenia.
+§21</p>
+<p style="text-align: justify;">1. Uchwały Zarządu podejmowane są w głosowaniu jawnym, zwykłą większością głosów, przy obecności co najmniej połowy ogólnej liczby uprawnionych członków (kworum). W sytuacji równego rozłożenia głosów decyduje głos Prezesa. Na podstawie uchwały pełnego składu Zarząd może podejmować uchwały w głosowaniu tajnym.
+2. Posiedzenia Zarządu odbywają się nie rzadziej niż raz na kwartał.
+3. Posiedzenia Zarządu zwoływane są przez Prezesa Zarządu a w wyjątkowych sytuacjach przez jednego z wiceprezesów Zarządu.
+§22
+1. Do zakresu działania Zarządu należy:
+a. realizacja uchwał Walnego Zebrania i kierowanie całokształtem działalności Stowarzyszenia zgodnie z celami statutowymi,
+b. uchwalanie planów działalności Stowarzyszenia i preliminarzy budżetowych,
+c. sprawowanie zarządu nad majątkiem Stowarzyszenia,
+d. ustalania regulaminu wynagrodzeń pracowników Stowarzyszenia,
+e. podejmowanie decyzji w sprawie nabycia lub zbycia majątku nieruchomego i ruchomego,
+f. podejmowanie decyzji w sprawie zaciągania zobowiązań,
+g. zwoływanie Walnego Zebrania,
+h. podejmowanie uchwał w sprawach przyjmowania i wykluczania członków zwyczajnych,
+i. rozpatrywanie sporów pomiędzy członkami, powstałych na tle działalności Stowarzyszenia,
+j. składanie sprawozdań ze swej działalności na Walnym Zebraniu,
+k. uchwalanie regulaminów przewidzianych w statucie,
+l. w szczególnych przypadkach zwalnianie z obowiązku płacenia składek członkowskich,
+m. reprezentowanie Stowarzyszenia na zewnątrz i działanie w jego imieniu.</p>
+<p style="text-align: justify;">§23
+1. Zarząd, z własnej inicjatywy lub na wniosek Komisji Rewizyjnej, może uchwałą zlecić przeprowadzenie audytu finansowego.</p>
+<p style="text-align: justify;">§24
+1. Do zaciągania zobowiązań majątkowych oraz reprezentowania Stowarzyszenia na zewnątrz upoważnionych jest dwóch członków Zarządu działających łącznie, w tym Prezes lub Wiceprezes Zarządu.
+2. Stowarzyszenie może być również reprezentowane przez pełnomocników powoływanych przez Zarząd Stowarzyszenia.
+3. W umowach z członkami Zarządu Stowarzyszenia, Stowarzyszenie reprezentuje pełnomocnik powołany przez Walne Zebranie Członków.
+§25
+1. Zarząd Stowarzyszenia przedstawia Komisji Rewizyjnej, w terminie do 31 maja każdego roku, a następnie Walnemu Zebraniu Członków coroczne sprawozdaniedziałalności Stowarzyszenia oraz sprawozdanie finansowe Stowarzyszenia za ubiegły rok obrotowy.
+2. Zarząd zobowiązany jest na żądanie Komisji Rewizyjnej lub któregokolwiek z jej członków udzielać wszelkich informacji oraz przedstawiać niezbędne dokumenty dotyczące działalności Stowarzyszenia lub Zarządu.
+§26
+1. Uchwały Zarządu zapadają zwykłą większością głosów w obecności co najmniej trzech członków Zarządu.
+2. W przypadku równości głosów przy podejmowaniu uchwał przez Zarząd, decydujący głos ma Prezes Zarządu.
+§27
+1. Zarząd Stowarzyszenia może uchwalić regulamin określający organizację oraz sposób funkcjonowania Zarządu.</p>
+<p style="text-align: justify;">§28
+1. Komisja Rewizyjna jest organem Stowarzyszenia powołanym do sprawowania kontroli nad jego działalnością.
+2. Komisja Rewizyjna składa się z 2 członków, którzy wybierają spośród siebie Przewodniczącego Komisji.
+3. Kadencja Komisji Rewizyjnej Stowarzyszenia trwa 4 lata.
+§29
+1. Do zakresu działania Komisji Rewizyjnej należy:
+a. żądania od Zarządu przedstawienia wszelkich dokumentów dotyczących działalności Stowarzyszenia w celu skontrolowania co najmniej raz w roku całokształtu działalności Stowarzyszenia,
+b. występowanie do Zarządu z wnioskami wynikającymi z przeprowadzonych kontroli i żądanie pisemnych lub ustnych wyjaśnień,
+c. prawo żądania zwołania Nadzwyczajnego Walnego Zebrania w razie stwierdzenia nie wywiązywania się przez Zarząd z jego statutowych obowiązków, a także prawo żądania zwołania posiedzenia Zarządu,
+d. zwołanie Walnego Zebrania, w razie nie zwołania go przez Zarząd w terminie ustalonym statutem,
+e. składanie na Walnym Zebraniu wniosków o udzielenie (lub odmowę udzielenia) absolutorium dla Zarządu,
+f. składanie sprawozdań ze swej działalności na Walnym Zebraniu.
+§ 30
+1. Uchwały Komisji Rewizyjnej, podejmowane są w głosowaniu jawnym, zapadają zwykłą większością głosów w obecności wszystkich członków Komisji. Na podstawie uchwały pełnego składu Komisja Rewizyjna może podejmować uchwały w głosowaniu tajnym.
+§31
+1. Członkowie Komisji Rewizyjnej nie mogą pełnić innych funkcji we władzach Stowarzyszenia ani być pracownikami Stowarzyszenia.
+2. Członkowie Komisji Rewizyjnej mogą brać udział w posiedzeniach Zarządu z głosem doradczym.
+3. Komisja Rewizyjna działa na podstawie własnego uchwalonego regulaminu.
+4. Komisja Rewizyjna ma prawo żądania od członków i władz Stowarzyszenia wszystkich szczebli złożenia pisemnych lub ustnych wyjaśnień dotyczących kontrolowanych spraw.
+§32
+1. Komisja Rewizyjna jest niezależna od Zarządu a członkowie Komisji Rewizyjnej:
+a. Nie mogą być członkami Zarządu ani pozostawać z nimi w związku małżeńskim, we wspólnym pożyciu, w stosunku pokrewieństwa (do 2 stopnia włącznie), powinowactwa do 2 stopnia włącznie), lub podległości służbowej,
+b. Nie byli skazani prawomocnym wyrokiem za przestępstwo umyślne ścigane z oskarżenia publicznego lub przestępstwo skarbowe.</p>
+<p style="text-align: justify;">ROZDZIAŁ 5
+MAJĄTEK STOWARZYSZENIA</p>
+<p style="text-align: justify;">§33
+1. Środki finansowe na wykonywanie zadań statutowych Stowarzyszenie uzyskuje ze składek członkowskich, środków z funduszy publicznych, grantów, kontraktów, zlecenia usług, świadczeń członków wspierających, darowizn, ze zbiórek publicznych i kampanii, nawiązek sądowych, spadków i zapisów, sponsoringu oraz dochodów z działalności gospodarczej oraz dochodów z działalności odpłatnej pożytku publicznego.
+2. Stowarzyszenie może podjąć działalność gospodarczą, z której dochody przeznacza się na realizację celów statutowych Stowarzyszenia.
+3. Przedmiot przeważającej działalności gospodarczej Stowarzyszenia zgodnie z Polską Klasyfikacją Działalności (PKD) to Działanie portali internetowych.
+4. Przedmioty pozostałej działalności gospodarczej Stowarzyszenia zgodnie z Polską Klasyfikacją Działalności (PKD) to:
+a. Pozaszkolne formy edukacji sportowej oraz zajęć sportowych i rekreacyjnych,
+b. Pozostałe pozaszkolne formy edukacji, gdzie indziej niesklasyfikowane,
+c. Artystyczna i literacka działalność twórcza,
+d. Działalność fotograficzna,
+e. Działalność organizatorów turystyki
+f. Sprzedaż detaliczna prowadzona przez domy sprzedaży wysyłkowej lub Internet,
+g. Wydawanie książek,
+h. Pozostała działalność wydawnicza,
+i. Pozostała działalność związana ze sportem.
+5. Składki członkowskie powinny być wpłacane do końca I kwartału każdego roku. Nowo przyjęci członkowie wpłacają składki, wg zasad określonych przez Walne Zebranie, w ciągu czterech tygodni od otrzymania powiadomienia o przyjęciu na członka Stowarzyszenia. Wysokość składek określa Zarząd w uchwalonym przez siebie regulaminie.
+§34
+1. W zakresie wynikającym z działalności statutowej i gospodarczej Stowarzyszenie może nabywać prawa i zaciągać zobowiązania.
+2. Do składania oświadczeń woli w zakresie praw i obowiązków majątkowych oraz zawierania umów i zobowiązań, a także udzielania pełnomocnictw w imieniu Stowarzyszenia uprawniony jest dwóch członków Zarządu, w tym Prezes lub Wiceprezes.</p>
+<p style="text-align: justify;">ROZDZIAŁ 6
+ZMIANA STATUTU I ROZWIĄZANIE STOWARZYSZENIA</p>
+<p style="text-align: left;">§35
+1. Uchwalenie statutu lub jego zmiana przez Walne Zebranie Członków wymaga kwalifikowanej większości 2/3 głosów, przy obecności co najmniej połowy członków uprawnionych do głosowania.
+2. Podjęcie uchwały o rozwiązaniu Stowarzyszenia przez Walne Zebranie Członków wymaga kwalifikowanej większości 2/3 głosów, przy obecności co najmniej 2/3 członków uprawnionych do głosowania.
+3. Wniosek o zmianę statutu musi być zgłoszony na piśmie, a treść proponowanej zmiany podana w zawiadomieniu zwołującym Walne Zebranie.
+4. Podejmując uchwałę o rozwiązaniu Stowarzyszenia Walne Zebranie powołuje Komisję Likwidacyjną, która przeprowadzi likwidację Stowarzyszenia. Walne Zebranie wskazuje także podmioty, nie nastawione na osiąganie zysku, na rzecz których przejdzie majątek Stowarzyszenia, po wypełnieniu jego zobowiązań.</p>
+<p style="text-align: justify;">Komitet założycielski:
+Jan Marković
+Sławomir Tęcza
+Monika Marković</p>
