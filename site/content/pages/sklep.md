@@ -6,4 +6,6 @@ post_excerpt: ""
 layout: page
 permalink: http://www.psar.test/sklep/
 draft: false
+as: sa
+date: 2017-09-21 11:27:00
 ---

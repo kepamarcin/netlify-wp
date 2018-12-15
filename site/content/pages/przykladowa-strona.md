@@ -6,6 +6,8 @@ post_excerpt: ""
 layout: page
 permalink: http://www.psar.test/przykladowa-strona/
 draft: false
+as: sa
+date: 2018-09-17 10:56:13
 ---
 To jest przykładowa strona. Różni się ona od postu na blogu, ponieważ pozostanie ona ciągle w jednym miejscu i pokaże się w panelu nawigacyjnym na twojej stronie (w przypadku większości szablonów). Większość osób zaczyna od strony 'O mnie' lub 'O nas', która przedstawia ich potencjalnym odwiedzającym stronę. Może to być coś takiego:
 

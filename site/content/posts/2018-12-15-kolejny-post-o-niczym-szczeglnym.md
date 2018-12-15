@@ -7,6 +7,7 @@ layout: post
 permalink: >
   http://www.psar.test/kolejny-post-o-niczym-szczeglnym/
 draft: false
+as: sa
 date: 2018-12-15 14:44:51
 image: >
   http://www.psar.test/wp-content/uploads/2018/10/pko-logo.jpg

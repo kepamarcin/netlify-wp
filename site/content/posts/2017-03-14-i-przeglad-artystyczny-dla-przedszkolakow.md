@@ -9,6 +9,10 @@ layout: post
 permalink: >
   http://www.psar.test/i-przeglad-artystyczny-dla-przedszkolakow/
 draft: false
+as: sa
+date: 2017-03-14 13:14:47
+image: >
+  http://www.psar.test/wp-content/uploads/2017/03/przeglad-artystyczny-rzeszowskie-spacery-2017-40.jpg
 ---
 Więcej zdjęć <span style="text-decoration: underline;"><a href="http://gdziecko.pl/i-przeglad-artystyczny-rzeszowskie-spacery-fotorelacja/">znajdziesz TU [kliknij]</a></span>
 

@@ -7,6 +7,8 @@ layout: post
 permalink: >
   http://www.psar.test/u-nas-mozna-latac-podklad-muzyczny-tekst/
 draft: false
+as: sa
+date: 2018-07-03 13:49:27
 ---
 [audio mp3="http://www.psar.test/wp-content/uploads/2018/07/U-nas-można-latac-podkład-roboczy.mp3"][/audio]
 

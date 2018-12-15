@@ -6,6 +6,8 @@ post_excerpt: ""
 layout: page
 permalink: http://www.psar.test/lot-z-przeszlosci/
 draft: false
+as: sa
+date: 2017-08-30 10:01:33
 ---
 <a href="http://www.psar.test/wp-content/uploads/2017/08/20476194_1456543601091767_4828966249318601786_n.jpg"><img class="alignnone wp-image-1384 size-full" title="lot z przeszłości" src="http://www.psar.test/wp-content/uploads/2017/08/20476194_1456543601091767_4828966249318601786_n.jpg" alt="" width="960" height="363" /></a>
 <p style="text-align: left;"><strong>Głównym rezultatem niniejszego projektu jest stworzenie ilustrowanej książki dla dzieci pt. „Lot z przeszłości”. Bohaterem książki jest 10-letnie dziecko, które znajduje wehikuł czasu. Odwiedzając Rzeszów z czasów dzieciństwa swoich rodziców, dziadków, pradziadków, zarazem poznaje historię rozwoju przemysłu w Rzeszowie – od powstania Centralnego Okręgu Przemysłowego tuż przed II Wojną Światową aż po czasy współczesne.</strong></p>

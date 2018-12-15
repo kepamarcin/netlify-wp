@@ -7,6 +7,10 @@ layout: post
 permalink: >
   http://www.psar.test/rzeszowskie-spacery-gra-pamieciowa/
 draft: false
+as: sa
+date: 2016-12-12 17:20:18
+image: >
+  http://www.psar.test/wp-content/uploads/2018/07/jarmark_garncarski_2018.jpg
 ---
 <strong>Zapraszamy do zapoznania się z kolejnym wydawnictwem Stowarzyszenia PSAR promującym Rzeszów i jego atrakcje.</strong>
 

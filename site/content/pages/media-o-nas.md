@@ -6,6 +6,8 @@ post_excerpt: ""
 layout: page
 permalink: http://www.psar.test/media-o-nas/
 draft: false
+as: sa
+date: 2016-08-04 10:12:28
 ---
 <p style="text-align: justify;"><strong>O książeczce "Rzeszowskie spacery dla przedszkolaków" wydanej przez Podkarpackie Stowarzyszenie dla Aktywnych Rodzin dzięki dofinansowaniu Gminy Miasto Rzeszów:</strong></p>
 <p style="text-align: justify; padding-left: 30px;"><em>"Piękne ilustracje i wierszyki o Rzeszowie zachęcają dzieci do poznawania swojego miasta" - <strong>Radio Via</strong></em></p>
