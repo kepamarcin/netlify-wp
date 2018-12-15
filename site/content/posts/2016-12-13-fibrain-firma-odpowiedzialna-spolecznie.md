@@ -12,9 +12,8 @@ tags: '
 - gra pamięciowa
 - rzeszowskie spacery
 - sponsor gry'
-categories: |
-  
-  - General
+categories:
+  - '- General'
 ---
 Na etapie planowania projektu "Rzeszowskie spacery - gra i przegląd artystyczny" stowarzyszenie PSAR zwróciło się do rzeszowskich firm z prośbą o wsparcie finansowe, umożliwiające realizację tej inicjatywy.
 

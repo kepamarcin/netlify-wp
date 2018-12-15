@@ -16,9 +16,8 @@ tags: '
 - rzeszowskie spacery
 - sponsor
 - sponsor gry'
-categories: |
-  
-  - Sponsorzy
+categories:
+  - '- Sponsorzy'
 ---
 Wydanie <a href="http://dev-psar.pantheonsite.io/rzeszowskie-spacery-gra-pamieciowa/">„Rzeszowskich spacerów - gry pamięciowej" </a>nie byłoby możliwe bez wsparcia sponsorów, którzy dostrzegli sens i duży potencjał tego projektu, i zdecydowali się pomóc nam w jego realizacji. Jednym z tych sponsorów jest <a href="https://www.facebook.com/PKOBankPolski/">bank PKO BP</a>.
 

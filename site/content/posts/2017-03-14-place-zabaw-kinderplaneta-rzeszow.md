@@ -13,9 +13,8 @@ image: >
 tags: '
 - przegląd artystyczny
 - sponsor'
-categories: |
-  
-  - Sponsorzy
+categories:
+  - '- Sponsorzy'
 ---
 Kinderplaneta to sieć placów zabaw, które odwiedzić można w kilkunastu miastach Polski. Jeden z nich znajdziemy<strong> w Rzeszowie w galerii „Nowy Świat"</strong> przy ul. Krakowskiej.
 

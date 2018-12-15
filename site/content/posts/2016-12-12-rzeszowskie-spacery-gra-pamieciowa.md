@@ -14,9 +14,8 @@ tags: '
 - gra pamięciowa
 - gra regionalna
 - rzeszowskie spacery'
-categories: |
-  
-  - Projekty
+categories:
+  - '- Projekty'
 ---
 <strong>Zapraszamy do zapoznania się z kolejnym wydawnictwem Stowarzyszenia PSAR promującym Rzeszów i jego atrakcje.</strong>
 

@@ -13,9 +13,8 @@ image: >
 tags: '
 - planszówki
 - rzeszowski klub rodzinny'
-categories: |
-  
-  - Projekty
+categories:
+  - '- Projekty'
 ---
 <strong>Stowarzyszenie PSAR jest twórcą klubu dla rodzin z dziećmi. Członkiem Rzeszowskiego Klubu Rodzinnego (RKR) może zostać każda rodzina zamieszkała w Rzeszowie lub w niedalekiej okolicy. </strong>
 

@@ -7,8 +7,7 @@ layout: post
 permalink: http://www.psar.test/witaj-swiecie/
 draft: false
 date: 2018-09-17 10:56:13
-categories: |
-  
-  - General
+categories:
+  - '- General'
 ---
 Witaj w WordPressie. To jest twój pierwszy wpis. Zmodyfikuj go lub usuń, a następnie rozpocznij pisanie!

@@ -16,9 +16,8 @@ tags: '
 - impreza dla dzieci
 - przegląd artystyczny
 - rzeszów'
-categories: |
-  
-  - Projekty
+categories:
+  - '- Projekty'
 ---
 Więcej zdjęć <span style="text-decoration: underline;"><a href="http://gdziecko.pl/i-przeglad-artystyczny-rzeszowskie-spacery-fotorelacja/">znajdziesz TU [kliknij]</a></span>
 

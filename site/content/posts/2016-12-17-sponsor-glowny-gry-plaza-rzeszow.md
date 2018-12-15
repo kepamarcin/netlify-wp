@@ -13,9 +13,8 @@ image: >
 tags: '
 - rzeszowskie spacery
 - sponsor gry'
-categories: |
-  
-  - Sponsorzy
+categories:
+  - '- Sponsorzy'
 ---
 „Rzeszowskie spacery – gry pamięciowa" ma swoją oficjalną premierę w dniach 16-18.12.2016 r. w centrum handlowym Rzeszów Plaza.
 
