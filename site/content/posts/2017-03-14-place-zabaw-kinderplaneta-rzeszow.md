@@ -10,10 +10,12 @@ draft: false
 date: 2017-03-14 15:46:28
 image: >
   http://www.psar.test/wp-content/uploads/2017/03/logotyp-Kinderplaneta.png
-tags: $tags
+tags: '
+- przegląd artystyczny
+- sponsor'
 categories: |
   
-  -
+  - Sponsorzy
 ---
 Kinderplaneta to sieć placów zabaw, które odwiedzić można w kilkunastu miastach Polski. Jeden z nich znajdziemy<strong> w Rzeszowie w galerii „Nowy Świat"</strong> przy ul. Krakowskiej.
 
