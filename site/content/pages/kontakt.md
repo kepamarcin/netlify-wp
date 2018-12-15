@@ -1,11 +1,12 @@
 ---
 ID: 1437
-title: Kontakt
+post_title: Kontakt
 author: mkepa
 post_excerpt: ""
 layout: page
 permalink: http://www.psar.test/kontakt/
-draft: false
+published: true
+post_date: 2017-09-05 14:30:07
 ---
 ​
 <table>

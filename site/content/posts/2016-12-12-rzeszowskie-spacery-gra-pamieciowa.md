@@ -1,12 +1,13 @@
 ---
 ID: 1077
-title: 'Rzeszowskie spacery &#8211; gra pamięciowa'
+post_title: 'Rzeszowskie spacery &#8211; gra pamięciowa'
 author: mkepa
 post_excerpt: ""
 layout: post
 permalink: >
   http://www.psar.test/rzeszowskie-spacery-gra-pamieciowa/
-draft: false
+published: true
+post_date: 2016-12-12 17:20:18
 ---
 <strong>Zapraszamy do zapoznania się z kolejnym wydawnictwem Stowarzyszenia PSAR promującym Rzeszów i jego atrakcje.</strong>
 

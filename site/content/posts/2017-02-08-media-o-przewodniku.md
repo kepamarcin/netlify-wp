@@ -1,12 +1,13 @@
 ---
 ID: 1139
-title: Media o przewodniku
+post_title: Media o przewodniku
 author: mkepa
 post_excerpt: ""
 layout: post
 permalink: >
   http://www.psar.test/media-o-przewodniku/
-draft: false
+published: true
+post_date: 2017-02-08 14:12:06
 ---
 <strong>Radio:</strong>
 

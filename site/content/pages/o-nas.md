@@ -1,13 +1,14 @@
 ---
 ID: 1745
-title: >
+post_title: >
   Podkarpackie Stowarzyszenie dla
   Aktywnych Rodzin
 author: mkepa
 post_excerpt: ""
 layout: page
 permalink: http://www.psar.test/o-nas/
-draft: false
+published: true
+post_date: 2016-09-09 12:55:57
 ---
 <p style="text-align: center;"><iframe src="https://www.youtube.com/embed/G5Da0TPpS64?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 

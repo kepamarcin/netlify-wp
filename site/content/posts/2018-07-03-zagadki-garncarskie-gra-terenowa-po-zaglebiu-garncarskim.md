@@ -1,12 +1,13 @@
 ---
 ID: 1740
-title: 'Zagadki garncarskie &#8211; gra terenowa po zagłębiu garncarskim'
+post_title: 'Zagadki garncarskie &#8211; gra terenowa po zagłębiu garncarskim'
 author: mkepa
 post_excerpt: ""
 layout: post
 permalink: >
   http://www.psar.test/zagadki-garncarskie-gra-terenowa-po-zaglebiu-garncarskim/
-draft: false
+published: true
+post_date: 2018-07-03 14:57:03
 ---
 <p style="font-weight: 400;">W tym roku Jarmark Garncarski w Medyni Głogowskiej będzie wyjątkowo zagadkowy! Wśród  wielu atrakcji dla gości znalazła się niezwykła gra terenowa przygotowana przez stowarzyszenie PSAR.</p>
 <p style="font-weight: 400;"><strong>Jak grać żeby wygrać? W</strong>ystarczy zgłosić się do punktu informacyjnego zlokalizowanego na terenie Zagrody Garncarskiej i odebrać komplet materiałów. Zapoznajcie się z<strong> </strong>11 zagadkami, które poprowadzą Was przez atrakcje Szlaku Garncarskiego.  Trzeba podążać za wskazówkami, badać opisywane miejsca, szukać odpowiedzi. <strong>To wspaniała zabawa dla całych rodzin.</strong></p>
