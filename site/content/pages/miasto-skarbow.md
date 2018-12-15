@@ -6,7 +6,6 @@ post_excerpt: ""
 layout: page
 permalink: http://www.psar.test/miasto-skarbow/
 draft: false
-as: sa
 date: 2017-08-11 11:53:35
 ---
 <p style="text-align: left;"><strong>Gra planszowa „Miasto Skarbów” to kolejny edukacyjny materiał Podkarpackiego </strong><strong>Stowarzyszenia dla Aktywnych Rodzin.</strong></p>

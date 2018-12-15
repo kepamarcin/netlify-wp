@@ -9,7 +9,6 @@ layout: post
 permalink: >
   http://www.psar.test/bank-pko-bp-sponsorem-rzeszowskie-spacery-gra-pamieciowa/
 draft: false
-as: sa
 date: 2016-12-12 19:12:12
 image: >
   http://www.psar.test/wp-content/uploads/2016/12/Rzeszowskie_spacery_pudelko_social_media-e1481559254224.png

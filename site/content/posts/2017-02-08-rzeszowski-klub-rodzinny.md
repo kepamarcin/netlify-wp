@@ -7,7 +7,6 @@ layout: post
 permalink: >
   http://www.psar.test/rzeszowski-klub-rodzinny/
 draft: false
-as: sa
 date: 2017-02-08 18:51:49
 image: >
   http://www.psar.test/wp-content/uploads/2017/09/Untitled-1.jpg

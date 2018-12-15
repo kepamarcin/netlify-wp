@@ -7,7 +7,6 @@ layout: post
 permalink: >
   http://www.psar.test/media-o-przewodniku/
 draft: false
-as: sa
 date: 2017-02-08 14:12:06
 ---
 <strong>Radio:</strong>

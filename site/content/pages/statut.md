@@ -6,7 +6,6 @@ post_excerpt: ""
 layout: page
 permalink: http://www.psar.test/statut/
 draft: false
-as: sa
 date: 2016-08-04 10:04:01
 ---
 <p style="text-align: justify;"><strong>STATUT PODKARPACKIEGO STOWARZYSZENIA DLA AKTYWNYCH RODZIN</strong></p>

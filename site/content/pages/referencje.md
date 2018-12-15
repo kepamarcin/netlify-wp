@@ -6,7 +6,6 @@ post_excerpt: ""
 layout: page
 permalink: http://www.psar.test/referencje/
 draft: false
-as: sa
 date: 2017-08-23 10:35:48
 ---
 <a href="http://www.psar.test/wp-content/uploads/2017/08/prezydent-miasta-rzeszowa.png"><img class="alignnone wp-image-1422" src="http://www.psar.test/wp-content/uploads/2017/08/prezydent-miasta-rzeszowa.png" alt="" width="280" height="394" /></a>    <a href="http://www.psar.test/wp-content/uploads/2017/08/łańcut.png"><img class="alignnone wp-image-1421" src="http://www.psar.test/wp-content/uploads/2017/08/łańcut.png" alt="" width="280" height="384" /></a>

@@ -7,7 +7,6 @@ layout: post
 permalink: >
   http://www.psar.test/podkarpackie-wedrowki-dla-przedszkolakow-czesc-ii/
 draft: false
-as: sa
 date: 2018-01-27 11:03:20
 image: >
   http://www.psar.test/wp-content/uploads/2017/03/przeglad-artystyczny-rzeszowskie-spacery-2017-40.jpg

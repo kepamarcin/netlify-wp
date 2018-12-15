@@ -7,7 +7,6 @@ layout: post
 permalink: >
   http://www.psar.test/gra-pamieciowa-rzeszowskie-spacery-html5/
 draft: false
-as: sa
 date: 2017-02-08 20:59:15
 ---
 <p style="text-align: center;"><a href="http://www.psar.test/wp-content/uploads/2017/02/behance.png"><img class="wp-image-1145 size-full aligncenter" src="http://www.psar.test/wp-content/uploads/2017/02/behance.png" width="1400" height="4646" /></a></p>

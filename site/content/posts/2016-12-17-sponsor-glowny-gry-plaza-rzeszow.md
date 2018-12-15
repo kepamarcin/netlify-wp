@@ -7,7 +7,6 @@ layout: post
 permalink: >
   http://www.psar.test/sponsor-glowny-gry-plaza-rzeszow/
 draft: false
-as: sa
 date: 2016-12-17 21:49:56
 image: >
   http://www.psar.test/wp-content/uploads/2016/09/plaza.png

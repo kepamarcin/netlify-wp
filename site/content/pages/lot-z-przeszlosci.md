@@ -6,7 +6,6 @@ post_excerpt: ""
 layout: page
 permalink: http://www.psar.test/lot-z-przeszlosci/
 draft: false
-as: sa
 date: 2017-08-30 10:01:33
 ---
 <a href="http://www.psar.test/wp-content/uploads/2017/08/20476194_1456543601091767_4828966249318601786_n.jpg"><img class="alignnone wp-image-1384 size-full" title="lot z przeszłości" src="http://www.psar.test/wp-content/uploads/2017/08/20476194_1456543601091767_4828966249318601786_n.jpg" alt="" width="960" height="363" /></a>

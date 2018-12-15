@@ -7,7 +7,6 @@ layout: post
 permalink: >
   http://www.psar.test/zagadki-garncarskie-gra-terenowa-po-zaglebiu-garncarskim/
 draft: false
-as: sa
 date: 2018-07-03 14:57:03
 ---
 <p style="font-weight: 400;">W tym roku Jarmark Garncarski w Medyni Głogowskiej będzie wyjątkowo zagadkowy! Wśród  wielu atrakcji dla gości znalazła się niezwykła gra terenowa przygotowana przez stowarzyszenie PSAR.</p>

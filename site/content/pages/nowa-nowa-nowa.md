@@ -6,7 +6,6 @@ post_excerpt: ""
 layout: page
 permalink: http://www.psar.test/nowa-nowa-nowa/
 draft: false
-as: sa
 date: 2018-12-15 14:18:35
 ---
 <!-- wp:preformatted -->
