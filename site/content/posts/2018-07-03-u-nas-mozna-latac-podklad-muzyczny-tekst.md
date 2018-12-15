@@ -9,7 +9,7 @@ permalink: >
 draft: false
 date: 2018-07-03 13:49:27
 categories:
-  - '- General'
+  - General
 ---
 [audio mp3="http://www.psar.test/wp-content/uploads/2018/07/U-nas-można-latac-podkład-roboczy.mp3"][/audio]
 

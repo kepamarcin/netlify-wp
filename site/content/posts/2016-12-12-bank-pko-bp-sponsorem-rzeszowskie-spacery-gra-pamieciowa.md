@@ -12,12 +12,12 @@ draft: false
 date: 2016-12-12 19:12:12
 image: >
   http://www.psar.test/wp-content/uploads/2016/12/Rzeszowskie_spacery_pudelko_social_media-e1481559254224.png
-tags: '
-- rzeszowskie spacery
-- sponsor
-- sponsor gry'
+tags:
+  - rzeszowskie spacery
+  - sponsor
+  - sponsor gry
 categories:
-  - '- Sponsorzy'
+  - Sponsorzy
 ---
 Wydanie <a href="http://dev-psar.pantheonsite.io/rzeszowskie-spacery-gra-pamieciowa/">„Rzeszowskich spacerów - gry pamięciowej" </a>nie byłoby możliwe bez wsparcia sponsorów, którzy dostrzegli sens i duży potencjał tego projektu, i zdecydowali się pomóc nam w jego realizacji. Jednym z tych sponsorów jest <a href="https://www.facebook.com/PKOBankPolski/">bank PKO BP</a>.
 

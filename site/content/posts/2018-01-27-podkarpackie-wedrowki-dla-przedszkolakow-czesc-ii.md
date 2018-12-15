@@ -10,14 +10,14 @@ draft: false
 date: 2018-01-27 11:03:20
 image: >
   http://www.psar.test/wp-content/uploads/2017/03/przeglad-artystyczny-rzeszowskie-spacery-2017-40.jpg
-tags: '
-- II część
-- mini-przewodnik dla dzieci
-- pko
-- podkarpackie wędrówki'
+tags:
+  - II część
+  - mini-przewodnik dla dzieci
+  - pko
+  - podkarpackie wędrówki
 categories:
-  - '- Projekty'
-  - '- Projekty wspólne'
+  - Projekty
+  - Projekty wspólne
 ---
 <a href="http://www.psar.test/wp-content/uploads/2018/01/mockup_podkarpackie_werdrowki_II.png"><img class="aligncenter size-full wp-image-1703" src="http://www.psar.test/wp-content/uploads/2018/01/mockup_podkarpackie_werdrowki_II.png" alt="" width="735" height="705" /></a>II część mini-przewodnika „Podkarpackie wędrówki dla przedszkolaków" podobnie jak pierwsza, pokazuje najbardziej atrakcyjne dla dzieci miejsca naszego województwa. Kolorowe ilustracje i wesołe wierszyki zachęcają całe rodziny, by wyjść z domu i pojechać na wycieczkę gdzieś, gdzie będą się dobrze i mądrze bawić.
 

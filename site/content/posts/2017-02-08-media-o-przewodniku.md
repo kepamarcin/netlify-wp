@@ -9,7 +9,7 @@ permalink: >
 draft: false
 date: 2017-02-08 14:12:06
 categories:
-  - '- General'
+  - General
 ---
 <strong>Radio:</strong>
 
