@@ -1,31 +1,5 @@
 var scroll;
 
-// window.onscroll = function changeNav(){
-//   const nav = document.querySelector('.menu-button');
-//           const body = document.querySelector('body');
-//         if((body.getBoundingClientRect().top) < -10){
-          
-//           nav.classList.add("bgchanged");
-//           var fired = false;
-//           if( fired === false){
-//             console.log(fired);
-            
-//             var imgDefer = document.querySelectorAll('.lazy');
-//             for (var i=0; i<imgDefer.length; i++) {
-//             if(imgDefer[i].getAttribute('data-src')) {
-//             imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
-//             imgDefer[i].setAttribute("1",[i]);
-//             } }
-//             fired = true;
-//             console.log(fired + "dłó");
-//           }
-//         } else {
-//           if(nav.classList.contains("bgchanged")){
-//             nav.classList.remove("bgchanged");
-//           }
-//         }
-// }
-
 var fired = false;
 window.addEventListener("scroll", function(){
     const nav = document.querySelector('.menu-button');
@@ -59,6 +33,6 @@ window.addEventListener("scroll", function(){
   }
 }, true)
 
-
+console.log('arefg');
 
 export default scroll;
