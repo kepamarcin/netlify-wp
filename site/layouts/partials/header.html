@@ -7,7 +7,7 @@
     </div>
     <div class="branding-text">
 
-      <h1 class="branding-name">{{ if .IsPage}}<span class="page-title">{{ .Title | markdownify }}</span>{{end}}<span class="site-title">{{ .Site.Title}}</span></h1>
+      <h1 class="branding-name">{{ if .IsPage}}<span class="page-title" style="font-size:2.5em">{{ .Title | markdownify }}</span>{{ else }}<span class="site-title">{{ .Site.Title}}</span>{{end}}</h1>
 
     </div>
 

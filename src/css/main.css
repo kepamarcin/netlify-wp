@@ -25,7 +25,9 @@ a {
   color: pink;
   text-decoration: none;
 }
-
+h1,h2{
+  line-height: 1.1;
+}
 .content {
   padding: 0 32px;
 }
