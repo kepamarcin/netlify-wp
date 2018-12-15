@@ -9,7 +9,7 @@ permalink: >
 draft: false
 date: 2018-12-15 14:44:51
 image: >
-  http://www.psar.test/wp-content/uploads/2018/10/pko-logo.jpg
+  http://www.psar.test/wp-content/uploads/2018/10/pko-logo.jpg/
 ---
 <!-- wp:heading {"level":3} -->
 <h3 id="description">Description&nbsp;<a href="https://developer.wordpress.org/reference/functions/get_the_post_thumbnail/#description">#Description</a></h3>
