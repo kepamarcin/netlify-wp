@@ -10,6 +10,8 @@ draft: false
 date: 2016-12-17 21:49:56
 image: >
   http://www.psar.test/wp-content/uploads/2016/09/plaza.png
+tags: $tags
+categories: $cats
 ---
 „Rzeszowskie spacery – gry pamięciowa" ma swoją oficjalną premierę w dniach 16-18.12.2016 r. w centrum handlowym Rzeszów Plaza.
 

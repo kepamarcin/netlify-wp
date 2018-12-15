@@ -8,6 +8,7 @@ permalink: >
   http://www.psar.test/media-o-przewodniku/
 draft: false
 date: 2017-02-08 14:12:06
+categories: $cats
 ---
 <strong>Radio:</strong>
 

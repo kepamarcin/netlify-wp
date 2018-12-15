@@ -8,6 +8,8 @@ permalink: >
   http://www.psar.test/fibrain-firma-odpowiedzialna-spolecznie/
 draft: false
 date: 2016-12-13 11:47:42
+tags: $tags
+categories: $cats
 ---
 Na etapie planowania projektu "Rzeszowskie spacery - gra i przegląd artystyczny" stowarzyszenie PSAR zwróciło się do rzeszowskich firm z prośbą o wsparcie finansowe, umożliwiające realizację tej inicjatywy.
 
