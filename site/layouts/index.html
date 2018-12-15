@@ -1,9 +1,11 @@
 {{ define "main" }}
 
-<h1>Hugo with Webpack, Sass, and PostCSS</h1>
+<h3>Hugo with Webpack, Sass, and PostCSS</h3>
 
-<h3>Hooray 🎉 - you've built this with <a href="https://github.com/netlify/victor-hugo">Victor-Hugo</a>!</h3>
-
-<a href="{{ "/tech" | relURL }}">Check out the tech</a>
-
+<h4>Ostatnie posty</h4>
+  <ul>
+  {{ range first 5 (where .Pages "Section" "posts").ByDate.Reverse }}
+     <li><a href="{{.Permalink}}">{{.Title | markdownify }}</a></li>
+  {{ end }}
+  </ul>
 {{ end }}

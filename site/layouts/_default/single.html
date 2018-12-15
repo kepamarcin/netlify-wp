@@ -1,5 +1,26 @@
 {{ define "main" }} {{ $section := .Site.GetPage "section" .Section }}
+
+{{ $taxo := "tags" }} <!-- Use the plural form here -->
+<ul id="{{ $taxo }}">
+    {{ range .Param $taxo }}
+        {{ $name := . }}
+        {{ with $.Site.GetPage (printf "/%s/%s" $taxo $name) }}
+            <li><a href="{{ .Permalink }}">{{ $name }}</a></li>
+        {{ end }}
+    {{ end }}
+</ul>
+{{ $taxon := "categories" }} <!-- Use the plural form here -->
+<ul id="{{ $taxon }}">
+    {{ range .Param $taxon }}
+        {{ $name := . }}
+        {{ with $.Site.GetPage (printf "/%s/%s" $taxon $name) }}
+            <li><a href="{{ .Permalink }}">{{ $name }}</a></li>
+        {{ end }}
+    {{ end }}
+</ul>
+
 <article class="content">
+  {{ with .Params.image }}<img src="{{ chomp . }}"/>{{end}}
   {{- .Content -}}
 </article>
 {{ end }}
