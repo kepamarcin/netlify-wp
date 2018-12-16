@@ -2,7 +2,7 @@
 ID: 1698
 title: 'Miasto Skarbów &#8211; rodzinna gra planszowa'
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: post
 permalink: >
   http://www.psar.test/miasto-skarbow-rodzinna-gra-planszowa/

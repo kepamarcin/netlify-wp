@@ -4,7 +4,7 @@ title: >
   Podkarpackie Stowarzyszenie dla
   Aktywnych Rodzin
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: page
 permalink: http://www.psar.test/o-nas/
 draft: false

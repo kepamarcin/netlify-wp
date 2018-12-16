@@ -2,7 +2,7 @@
 ID: 44
 title: Statut
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: page
 permalink: http://www.psar.test/statut/
 draft: false

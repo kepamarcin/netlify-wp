@@ -2,7 +2,7 @@
 ID: 1522
 title: WYBORCZA RZESZÓW
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: page
 permalink: http://www.psar.test/wyborcza-rzeszow/
 draft: false

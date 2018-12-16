@@ -2,7 +2,7 @@
 ID: 1105
 title: 'Fibrain &#8211; firma odpowiedzialna społecznie'
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: post
 permalink: >
   http://www.psar.test/fibrain-firma-odpowiedzialna-spolecznie/

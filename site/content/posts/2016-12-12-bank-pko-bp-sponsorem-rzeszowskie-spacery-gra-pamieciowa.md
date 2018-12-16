@@ -4,7 +4,7 @@ title: >
   PKO BP sponsorem rzeszowskiej gry
   pamięciowej
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: post
 permalink: >
   http://www.psar.test/bank-pko-bp-sponsorem-rzeszowskie-spacery-gra-pamieciowa/

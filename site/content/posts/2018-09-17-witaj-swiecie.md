@@ -2,7 +2,7 @@
 ID: 1
 title: Witaj, świecie!
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: post
 permalink: http://www.psar.test/witaj-swiecie/
 draft: false

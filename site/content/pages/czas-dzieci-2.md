@@ -2,7 +2,7 @@
 ID: 1652
 title: Czas Dzieci
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: page
 permalink: http://www.psar.test/czas-dzieci-2/
 draft: false

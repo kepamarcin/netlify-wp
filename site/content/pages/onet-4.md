@@ -2,7 +2,7 @@
 ID: 1516
 title: ONET
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: page
 permalink: http://www.psar.test/onet-4/
 draft: false

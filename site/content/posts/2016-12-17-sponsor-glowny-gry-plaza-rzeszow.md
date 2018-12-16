@@ -2,7 +2,7 @@
 ID: 1113
 title: 'Sponsor Główny gry &#8211; PLAZA Rzeszów'
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: post
 permalink: >
   http://www.psar.test/sponsor-glowny-gry-plaza-rzeszow/

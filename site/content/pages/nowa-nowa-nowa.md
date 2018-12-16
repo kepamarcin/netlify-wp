@@ -2,7 +2,7 @@
 ID: 1896
 title: NOwa nowa nowa
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: page
 permalink: http://www.psar.test/nowa-nowa-nowa/
 draft: false

@@ -2,7 +2,7 @@
 ID: 1437
 title: Kontakt
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: page
 permalink: http://www.psar.test/kontakt/
 draft: false

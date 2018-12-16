@@ -2,7 +2,7 @@
 ID: 1540
 title: Nowiny24
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: page
 permalink: http://www.psar.test/nowiny24-3/
 draft: false

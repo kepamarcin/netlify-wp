@@ -2,7 +2,7 @@
 ID: 1647
 title: Media Rzeszów
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: page
 permalink: http://www.psar.test/media-rzeszow-2-2/
 draft: false

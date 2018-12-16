@@ -4,7 +4,7 @@ title: >
   Rzeszowskie spacery dla przedszkolaków
   – przewodnik
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: page
 permalink: >
   http://www.psar.test/rzeszowskie-spacery-dla-przedszkolakow-przewodnik/

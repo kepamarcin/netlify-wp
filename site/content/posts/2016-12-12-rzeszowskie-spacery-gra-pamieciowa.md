@@ -2,7 +2,7 @@
 ID: 1077
 title: 'Rzeszowskie spacery &#8211; gra pamięciowa'
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: post
 permalink: >
   http://www.psar.test/rzeszowskie-spacery-gra-pamieciowa/

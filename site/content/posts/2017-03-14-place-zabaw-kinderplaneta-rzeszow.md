@@ -2,7 +2,7 @@
 ID: 1204
 title: Place Zabaw Kinderplaneta, Rzeszów
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: post
 permalink: >
   http://www.psar.test/place-zabaw-kinderplaneta-rzeszow/

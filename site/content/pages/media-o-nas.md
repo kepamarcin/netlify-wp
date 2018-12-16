@@ -2,7 +2,7 @@
 ID: 43
 title: Media o nas
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: page
 permalink: http://www.psar.test/media-o-nas/
 draft: false

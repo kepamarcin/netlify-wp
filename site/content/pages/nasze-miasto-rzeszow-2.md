@@ -2,7 +2,7 @@
 ID: 1509
 title: Nasze Miasto Rzeszów
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: page
 permalink: >
   http://www.psar.test/nasze-miasto-rzeszow-2/

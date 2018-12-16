@@ -2,7 +2,7 @@
 ID: 1304
 title: 'Miasto skarbów &#8211; gra planszowa'
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: page
 permalink: http://www.psar.test/miasto-skarbow/
 draft: false

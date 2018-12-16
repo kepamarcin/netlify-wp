@@ -2,7 +2,7 @@
 ID: 1593
 title: Polskie Radio Rzeszów
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: page
 permalink: >
   http://www.psar.test/polskie-radio-rzeszow-2/

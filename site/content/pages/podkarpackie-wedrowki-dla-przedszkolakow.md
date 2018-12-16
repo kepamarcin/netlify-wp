@@ -4,7 +4,7 @@ title: >
   Podkarpackie wędrówki dla
   przedszkolaków
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: page
 permalink: >
   http://www.psar.test/podkarpackie-wedrowki-dla-przedszkolakow/

@@ -2,7 +2,7 @@
 ID: 2
 title: Przykładowa strona
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: page
 permalink: http://www.psar.test/przykladowa-strona/
 draft: false

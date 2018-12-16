@@ -2,7 +2,7 @@
 ID: 1732
 title: 'U nas można latać &#8211; podkład muzyczny + tekst'
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: post
 permalink: >
   http://www.psar.test/u-nas-mozna-latac-podklad-muzyczny-tekst/

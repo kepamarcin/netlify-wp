@@ -2,7 +2,7 @@
 ID: 1379
 title: lot z przeszłości
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: page
 permalink: http://www.psar.test/lot-z-przeszlosci/
 draft: false

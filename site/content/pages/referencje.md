@@ -2,7 +2,7 @@
 ID: 1332
 title: Referencje
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: page
 permalink: http://www.psar.test/referencje/
 draft: false

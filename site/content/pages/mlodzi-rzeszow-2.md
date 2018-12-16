@@ -2,7 +2,7 @@
 ID: 1607
 title: Młodzi Rzeszów
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: page
 permalink: http://www.psar.test/mlodzi-rzeszow-2/
 draft: false

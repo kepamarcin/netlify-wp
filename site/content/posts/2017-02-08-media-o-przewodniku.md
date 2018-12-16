@@ -2,7 +2,7 @@
 ID: 1139
 title: Media o przewodniku
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: post
 permalink: >
   http://www.psar.test/media-o-przewodniku/

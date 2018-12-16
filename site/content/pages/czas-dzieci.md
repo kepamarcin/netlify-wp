@@ -2,7 +2,7 @@
 ID: 1643
 title: Mama czyta
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: page
 permalink: http://www.psar.test/czas-dzieci/
 draft: false

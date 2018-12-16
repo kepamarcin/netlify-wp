@@ -2,7 +2,7 @@
 ID: 1611
 title: RESinet
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: page
 permalink: http://www.psar.test/resinet-4/
 draft: false

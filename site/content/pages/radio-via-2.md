@@ -2,7 +2,7 @@
 ID: 1640
 title: Radio Via
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: page
 permalink: http://www.psar.test/radio-via-2/
 draft: false

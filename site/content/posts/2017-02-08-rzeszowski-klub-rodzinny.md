@@ -2,7 +2,7 @@
 ID: 1146
 title: Rzeszowski Klub Rodzinny
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: post
 permalink: >
   http://www.psar.test/rzeszowski-klub-rodzinny/

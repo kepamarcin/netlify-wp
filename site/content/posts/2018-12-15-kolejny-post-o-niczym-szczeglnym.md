@@ -2,7 +2,7 @@
 ID: 1931
 title: KOlejny post o niczym szczeglnym
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: post
 permalink: >
   http://www.psar.test/kolejny-post-o-niczym-szczeglnym/

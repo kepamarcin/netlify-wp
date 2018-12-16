@@ -2,7 +2,7 @@
 ID: 1512
 title: ESKA INFO
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: page
 permalink: http://www.psar.test/media-rzeszow-2/
 draft: false

@@ -2,7 +2,7 @@
 ID: 1740
 title: 'Zagadki garncarskie &#8211; gra terenowa po zagłębiu garncarskim'
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: post
 permalink: >
   http://www.psar.test/zagadki-garncarskie-gra-terenowa-po-zaglebiu-garncarskim/

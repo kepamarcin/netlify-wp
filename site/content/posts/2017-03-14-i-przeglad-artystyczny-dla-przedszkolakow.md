@@ -4,7 +4,7 @@ title: >
   I Przegląd Artystyczny dla
   przedszkolaków
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: post
 permalink: >
   http://www.psar.test/i-przeglad-artystyczny-dla-przedszkolakow/

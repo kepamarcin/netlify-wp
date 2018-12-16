@@ -2,7 +2,7 @@
 ID: 1604
 title: Super Nowości
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: page
 permalink: http://www.psar.test/super-nowosci/
 draft: false

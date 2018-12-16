@@ -2,7 +2,7 @@
 ID: 1825
 title: Kim jesteśmy?
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: post
 permalink: http://www.psar.test/kim-jestesmy/
 draft: false

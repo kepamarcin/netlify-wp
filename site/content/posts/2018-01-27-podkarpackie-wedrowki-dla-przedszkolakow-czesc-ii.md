@@ -2,7 +2,7 @@
 ID: 1701
 title: 'Podkarpackie wędrówki dla przedszkolaków &#8211; część II'
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: post
 permalink: >
   http://www.psar.test/podkarpackie-wedrowki-dla-przedszkolakow-czesc-ii/

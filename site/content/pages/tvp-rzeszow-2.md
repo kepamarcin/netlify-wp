@@ -2,7 +2,7 @@
 ID: 1506
 title: TVP RZESZÓW
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: page
 permalink: http://www.psar.test/tvp-rzeszow-2/
 draft: false

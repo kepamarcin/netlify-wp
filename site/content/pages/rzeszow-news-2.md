@@ -2,7 +2,7 @@
 ID: 1621
 title: Rzeszów NEWS
 author: mkepa
-post_excerpt: ""
+excerpt: ""
 layout: page
 permalink: http://www.psar.test/rzeszow-news-2/
 draft: false
